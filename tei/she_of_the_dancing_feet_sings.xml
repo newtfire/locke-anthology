@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>She Of The Dancing Feet Sings</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 131, Half page.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/134/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"SHE OF THE DANCING FEET SINGS"</head>
+            
+            <lg>
+               <l>And what would I do in <placeName>heaven</placeName>, pray,</l>
+               <l>Me with my dancing feet,</l>
+               <l>And limbs like apple boughs that sway</l>
+               <l>When the gusty rain winds beat?</l>
+            </lg>
+            
+            <lg>
+               <l>And how would I thrive in a perfect place</l>
+               <l>Where dancing would be sin,</l>
+               <l>With not a man to love my face,</l>
+               <l>Nor an arm to hold me in?</l>
+            </lg>
+            
+            <lg>
+               <l>The seraphs and the cherubim</l>
+               <l>Would be too proud to bend</l>
+               <l>To sing the faery tunes that brim</l>
+               <l>My heart from end to end.</l>
+            </lg>
+            
+            <lg>
+               <l>The wistful angels down in <placeName>hell</placeName></l>
+               <l>Will smile to see my face,</l>
+               <l>And understand, because they fell</l>
+               <l>From that all-perfect place.</l>
+            </lg>
+            
+          
+            
+            <byline>-Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
