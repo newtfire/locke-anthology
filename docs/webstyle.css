@@ -1,10 +1,19 @@
 
 body {
-background-color: BurlyWood;
-color: indigo;
-font-family: arial, helvetica, sans-serif;
+    color: black;
 }
-ol {list-style-type: lower-alpha;
-padding: 5em;
-    
+
+h2 {
+    font-style: italic;
+    margin-left: 20px;
+    border-bottom: double;
+}
+
+div.border {
+    border-right: solid;
+}
+
+nav.button {
+    display: block;
+    width: 60px;
 }
