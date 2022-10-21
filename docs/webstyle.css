@@ -1,6 +1,7 @@
 
 body {
     color: black;
+    background-color: #C2B280;
 }
 
 h2 {
@@ -13,9 +14,16 @@ nav.button {
     display: block;
     width: 60px;
     border-right: solid;
-    padding: 25px;    
+    padding-right: 35px; 
+    text-align: left;
+    height: 650px;
+    
 }
 
-button.Home {
-    padding: 10px 20px;
-}
+button.Home {padding: 10px 20px;}
+
+button.Poems {padding: 10px 20px;}
+
+button.Authors {padding: 10px 20px;}
+
+button.Music {padding: 10px 20px;}
