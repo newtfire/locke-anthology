@@ -10,6 +10,12 @@ h2 {
     border-bottom: double;
 }
 
+
+
+div.wrapper {
+    display: flex; 
+}
+
 nav.button {
     display: inline-block;
     width: 60px;
@@ -17,6 +23,12 @@ nav.button {
     border-right: solid;
     padding-right: 35px; 
     text-align: left;
+}
+
+h4 {
+    margin-left: 650px;
+    margin-top: 30px;
+    font-style: italic;
 }
 
 button.Home {padding: 10px 25px;border: none; }
