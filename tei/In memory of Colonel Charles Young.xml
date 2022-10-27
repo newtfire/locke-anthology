@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In Memory of Charles Young</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 133,  half page</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <facsimile>
+     <graphic url="https://archive.org/details/newnegrointerpre00unse/page/138/mode/2up"/>
+  </facsimile>
+  <text>
+      <body>
+         <div>
+            <head>"IN MEMORY OF COLONEL CHARLES YOUNG"</head>
+            
+            <lg>
+               <l>Along the shore the tall, thin grass</l>
+               <l>That fringes that dark river,</l>
+               <l>While sinuously soft feet pass,</l>
+               <l>Begins to bleed and quiver.</l>
+            </lg>
+            
+            <lg>
+               <l>The great dark voice breaks with a sob </l>
+               <l>Across the womb of night;</l>
+               <l>Above your grave the tom-toms throb,</l>
+               <l>And the hills are weird with light.</l>
+            </lg>
+            
+            <lg>
+               <l>The great dark heart is like a well</l>
+               <l>Drained bitter by the sky,</l>
+               <l>And all the honeyed lies they tell</l>
+               <l>Come there to thirst and die.</l>
+            </lg>
+            
+            <lg>
+               <l>No lie is strong enough to kill</l>
+               <l>the roots that work below;</l>
+               <l>From your rich dust and slaughtered will</l>
+               <l>A tree with tongues shall grow.</l>
+               
+               <byline>Countée Cullen</byline>
+            </lg>
+         </div>
+      </body>
+  </text>
+</TEI>
