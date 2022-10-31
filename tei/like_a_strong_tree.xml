@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Like a Strong Tree</title>
+                <author>Claude McKay</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 134, half a page.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/140/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>“LIKE A STRONG TREE”</head>
+
+                <lg>
+                    <l>Like a strong tree that in the virgin earth</l>
+                    <l>Sends far its roots through rock and loam and clay,</l>
+                    <l>And proudly thrives in rain or time of dearth,</l>
+                    <l>When the dry waves scare rainy sprites away;</l>
+                    <l>Like a strong tree that reaches down, deep, deep,</l>
+                    <l>For sunken water, fluid underground,</l>
+                    <l>Where the great-ringed unsightly blind worms creep,</l>
+                    <l>And queer things of the nether world abound:</l>
+                </lg>
+
+                <lg>
+                    <l>So would I live in rich imperial growth,</l>
+                    <l>Touching the surface and the depth of things,</l>
+                    <l>Instinctively responsive unto both,</l>
+                    <l>Tasting the sweets of being and the stings,</l>
+                    <l>Sensing the subtle spell of changing forms,</l>
+                    <l>Like a strong tree against a thousand storms.</l>
+                </lg>
+
+                <byline>Claude McKay</byline>
+            </div>
+        </body>
+    </text>
+</TEI>
