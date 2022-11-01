@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To A Brown Boy</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 129, Half Page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/132/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"TO A BROWN BOY"</head>
+            
+            <lg>
+               <l>That brown girl’s swagger gives a twitch</l>
+               <l rend="i1">To beauty like a queen;</l>
+               <l>Lad, never dam your body’s itch</l>
+               <l rend="i1">When loveliness is seen.</l>
+            </lg>
+
+            <lg>
+               <l>For there is ample room for bliss</l>
+               <l rend="i1">In pride in clean, brown limbs,</l>
+               <l>And lips know better how to kiss .</l>
+               <l rend="i1">Than how to raise white hymns.</l>
+            </lg>
+            
+            <lg>
+               <l>And when your body’s death gives birth</l>
+               <l rend="i1">To soil for spring to crown,</l>
+               <l>Men will not ask if that rare earth</l>
+               <l rend="i1">Was white flesh once, or brown.</l>
+            </lg>
+
+            <byline>-Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
