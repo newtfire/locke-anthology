@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Our Land</title>
+            <author>Langston Hughes</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 144, Half page.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"OUR LAND"</head>
+            <lg>
+               <l><rs type="POV">We</rs> should have a land of <rs type="rhymeA">sun</rs><rs type="endstop">,</rs></l>
+               <l>Of gorgeous <rs type="repetition"><rs type="rhymeA">sun</rs></rs><rs type="endstop">,</rs></l>
+               <l><rs type="assonance">And a land</rs> of fragrant <rs type="rhymeB">water</rs></l>
+               <l>Where the twilight is a soft bandanna <rs type="rhymeC">handkerchief</rs></l>
+               <l>Of rose and <rs type="rhymeD">gold</rs><rs type="endstop">,</rs></l>
+               <l><rs type="repetition">And not this <rs type="rhymeE">land</rs></rs></l>
+               <l>Where life is <rs type="rhymeD">cold</rs><rs type="endstop">.</rs></l>
+             </lg>
+            
+            <lg>
+               <l><rs type="repetition">We should have a land</rs> of <rs type="rhymeF">trees</rs><rs type="endstop">,</rs></l>
+               <l><rs type="repetition">Of</rs> tall thick <rs type="repetition"><rs type="rhymeF">trees</rs><rs type="endstop">,</rs></rs></l>
+               <l><rs type="assonance">Bowed down</rs> with chattering <rs type="enjambment"><rs type="rhymeG">parrots</rs></rs></l>
+               <l>Brilliant <rs type="simile">as</rs> the <rs type="rhymeH">day</rs><rs type="endstop">,</rs></l>
+               <l><rs type="repetition">And not this land</rs> where birds are <rs type="rhymeH">gray</rs><rs type="endstop">.</rs></l>
+            </lg>
+            
+            <lg>
+               <l>Ah, <rs type="POV">we</rs> should have a land of <rs type="rhymeI">joy</rs><rs type="endstop">,</rs></l>
+               <l><rs type="repetition">Of</rs> love and joy and wine and <rs type="rhymeJ">song</rs><rs type="endstop">,</rs></l>
+               <l><rs type="repetition">And not this land</rs> where joy is <rs type="rhymeJ">wrong</rs><rs type="endstop">.</rs></l>
+            </lg>
+            <byline>-Langston Hughes</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

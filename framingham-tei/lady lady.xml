@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lady Lady</title>
+            <author>Anne Spencer</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 148, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>   (Descriptive poetry)
+         Lady, Lady, I saw your face,
+         Dark as night withholding a star . (These two stanzas are couplets) . .
+         The chisel fell, or it might have been
+         You had borne so long the yoke of men.
+         (these two stanzas are couplets)
+         Lady, Lady, I saw your hands,
+         Twisted, awry- like crumpled roots,(metaphor)
+         Bleached poor white in a sudsy tub,
+         Wrinkled and drawn from your rub-a-dub. (tub and dub rhyme)
+         (the four stanzas are a quatrain)
+         Lady, Lady, I saw your heart,
+         And altared there in its darksome place   (couplet)
+         Were the tongues of flame the ancients knew,
+         Where the good God sits to spangle through. (knew and through rhyme)
+         (couplet) (repetition with lady lady, and also common theme)
+      </body>
+   </text>
+</TEI>

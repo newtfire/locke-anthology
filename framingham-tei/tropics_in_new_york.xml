@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Tropics in New York</title>
+                <author>Claude McKay</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 135, Half page.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>The Tropics in New York</head>
+                <lg>
+                    <l><rs type="food">Bananas</rs> ripe and <rs type="color">green</rs>, and <rs type="food">ginger</rs> <rhyme type="A">root</rhyme>,</l>
+                    <l><rs type="food">Cocoa</rs> in pods and alligator <rhyme type="B">pears</rhyme>,</l>
+                    <l>And <rs type="food">tangerines and mangoes and grape</rs> <rhyme type="A">fruit</rhyme>,</l>
+                    <l>Fit for the highest prize at <rs type="religion">parish</rs> <rhyme type="B">fairs</rhyme>.</l>
+                </lg>
+                <lg>
+                    <l>Set in the window, bringing <rhyme type="C">memories></rhyme></l>
+                    <l>Of <rs type="food">fruit-trees</rs> laden by low-singing <rhyme type="D">rills</rhyme>,</l>
+                    <l>And dewy dawns, and mystical <rs type="color">blue</rs> <rhyme type="slant"><rhyme type="C">skies></rhyme></rhyme></l>
+                    <l>In <rs type="religion">benediction</rs> over <rs type="religon">nun-like</rs> <rhyme type="D">hills</rhyme>.</l>
+                </lg>
+                <lg>
+                    <l>My eyes grew dim, and I could no more <rhyme type="E">gaze</rhyme>;</l>
+                    <l>A wave of longing through my body <rhyme type="F">swept</rhyme>,</l>
+                    <l>And, hungry for the old familiar <rhyme type="E">ways</rhyme>,</l>
+                    <l>I turned aside and <rs type="religion">bowed my head</rs> and <rhyme type="F">wept</rhyme>.</l>
+                </lg>
+                <byline>-Claude McKay</byline>
+            </div>
+        </body>
+    </text>
+</TEI>

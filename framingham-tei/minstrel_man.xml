@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Minstrel Man</title>
+                <author>Langston Hughes</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 144, Half page.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head><rs type="minstrelsy">Minstrel</rs> Man</head>
+                <lg>
+                   <l>Because <rs type="firstPerson">my</rs> mouth</l>
+                   <l>Is wide with laughter</l>
+                   <l>And my throat Is</l>
+                   <l>deep with <rhyme type="D">song</rhyme>,<caesura></caesura></l>
+                   <l><rs type="secondPerson">You</rs> do not think</l>
+                   <l>I suffer after</l>
+                   <l>I have held my pain</l>
+                   <l>So <rhyme type="D">long</rhyme>.<caesura></caesura></l>
+                </lg>
+                <lg>
+                   <l>Because my mouth</l>
+                   <l>Is wide with laughter,<caesura></caesura></l>
+                   <l>You do not hear</l>
+                   <l>My inner <rhyme type="K">cry</rhyme>,<caesura></caesura></l>
+                   <l>Because my feet</l>
+                   <l><rs type="metaphor">Are gay</rs> with dancing,<caesura></caesura></l>
+                   <l>You do not know</l>
+                   <l>I <rhyme type="K"><rs type="metaphor">die</rs></rhyme>.<caesura></caesura></l>
+                </lg>
+                <byline>-Langston Hughes</byline>
+            </div>
+        </body>
+    </text>
+</TEI>
