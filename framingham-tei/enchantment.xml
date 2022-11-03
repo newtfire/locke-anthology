@@ -7,6 +7,7 @@
          <titleStmt>
             <title>Enchantment</title>
             <author>Lewis Alexander</author>
+            <editor>Hanna Durfee</editor>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -25,11 +26,11 @@
             <head>"ENCHANTMENT"</head>
             
                <div type="part">
-                  <l> <rs type="partTitle">Part I</rs></l>
+                  <head> <rs type="partTitle">Part I</rs></head>
                   
-                  <l><rs type="setting">Night</rs></l>
+                  <head><rs type="setting">Night</rs></head>
                   <lg>
-                  <l>The moonlight<rs type="endstop">:</rs></l>
+                  <l enjamb="n">The moonlight:</l>
                      <l>Juice<rs type="assonance"> <rs type="alliteration">flowing from</rs> an over-ripe <rs type="enjambment">pomegranate</rs></rs></l>
                      <l><rs type="enjambment">bursting</rs></l>
                      
