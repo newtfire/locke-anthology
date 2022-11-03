@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brown Girl Dead</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 131, Half page.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"A <rs type="black">Brown</rs> Girl Dead"</head>
+            <lg> 
+               <l>With two <rs type="white">white</rs> roses on <rs type="thirdPerson">her</rs> <rhyme type="A">breasts</rhyme>,</l>
+               <l><rs type="white">White</rs> candles at head and <rhyme type="B">feet</rhyme>,</l>
+               <l><persName>Dark <rs type="religion">Madonna</rs></persName> of the grave she <rhyme type="A">rests</rhyme>;</l>
+               <l><persName>Lord Death</persName> has found her <rhyme type="B">sweet</rhyme>.</l>
+            </lg>
+            <lg>  
+               <l><rs type="woman">Her mother</rs> pawned her wedding <rhyme type="C">ring</rhyme></l>
+               <l>To lay her out in <rhyme type="D">white</rhyme>;</l>
+               <l><rs type="love">She’d be so proud</rs> she’d dance and <rhyme type="C">sing</rhyme></l>
+               <l>To see herself <rhyme type="D">to-night</rhyme>.</l>
+            </lg>
+            <byline>-Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

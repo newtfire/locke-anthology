@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dream Variation</title>
+            <author>Langston Hughes</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 143, Half page.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"DREAM VARIATION"</head>
+            <lg>
+               <l>To <rs type="actionWords">fling</rs> my arms <rs type="rhymeA"><rs type="enjambment">wide</rs></rs> <rs type="printingError">7</rs></l>
+               <l>In some place of the <rs type="rhymeB">sun<rs type="endstop">,</rs></rs></l>
+               <l>To <rs type="actionWords">whirl</rs> and to <rs type="rhymeC"><rs type="enjambment">dance</rs></rs></l>
+               <l>Till the bright day is <rs type="rhymeB">done</rs><rs type='endstop'>.</rs></l>
+               <l>Then rest at cool <rs type="rhymeD"><rs type="enjambment">evening</rs></rs></l>
+               <l>Beneath a tall <rs type="rhymeE"><rs type="enjambment">tree</rs></rs></l>
+               <l>While night comes <rs type="rhymeE"><rs type="enjambment">gently</rs></rs></l>
+               <l>Dark <rs type="simile">like</rs> <rs type="rhymeE">me</rs><rs type="endstop">.</rs></l>
+               <l><rs type="theme:blackJoyAndYearningForFreedom">That is my <rs type="rhymeF">dream<rs type="endstop">.</rs></rs></rs></l>
+               <l>To <rs type="actionWords">fling</rs> my arms <rs type="rhymeA"><rs type="enjambment">wide</rs></rs></l>
+               <l>In the face of the <rs type="rhymeB">sun</rs><rs type="endstop">.</rs></l>
+               <l><rs type="actionWords">Dance! Whirl! <rs type="rhymeG">Whirl<rs type="endstop">!</rs></rs></rs></l>
+               <l>Till the quick day is <rs type="rhymeB">done<rs type="endstop">.</rs></rs></l>
+               <l>Rest at pale <rs type="rhymeD">evening<rs type="endstop">,</rs></rs></l>
+               <l>A tall, slim <rs type="E">tree<rs type="endstop">,</rs></rs></l>
+               <l>Night coming <rs type="rhymeE"><rs type="enjambment">tenderly</rs></rs></l>
+               <l>Black <rs type="simile">like</rs> <rs type="rhymeE">me<rs type="endstop">.</rs></rs></l>
+            </lg>
+            <byline>-Langston Hughes</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

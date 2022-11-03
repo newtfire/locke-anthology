@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Enchantment</title>
+            <author>Lewis Alexander</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 149-150, 2 Pages.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"ENCHANTMENT"</head>
+            
+               <div type="part">
+                  <l> <rs type="partTitle">Part I</rs></l>
+                  
+                  <l><rs type="setting">Night</rs></l>
+                  <lg>
+                  <l>The moonlight<rs type="endstop">:</rs></l>
+                     <l>Juice<rs type="assonance"> <rs type="alliteration">flowing from</rs> an over-ripe <rs type="enjambment">pomegranate</rs></rs></l>
+                     <l><rs type="enjambment">bursting</rs></l>
+                     
+                     <l>The <rs type="alliteration">cossack-crested</rs> palm trees<rs type="endstop">:</rs></l>
+               <l>motionless</l>
+                     
+                     <l>The leopard <rs type="alliteration">spotted shade</rs><rs type="endstop">:</rs></l>
+                     <l>Inciting <rs type="enjambment">fear</rs></l>
+                     
+                     <l><rs type="alliteration">silence seeds sown</rs><rs type="endstop"> . . .</rs></l>
+                  </lg>
+               </div>
+            
+            <div type="part">   
+               <l><rs type="partTitle">Part II</rs></l>
+            
+               <l><rs type="setting">Medicine Dance</rs></l>
+            <lg>
+               <l>A body <rs type="personification">smiling </rs>with <rs type="alliteration">black beauty<rs type="enjambment"></rs></rs></l>
+               <l>Leaping into the <rs type="enjambment">air</rs></l>
+               <l>Around a grotesque hyena-faced monster<rs type="endstop">;</rs></l>
+            </lg>
+               
+               <lg>
+               <l>The Sorcerer<rs type="endstop">—</rs></l>
+               <l>A <rs type="alliteration">black body</rs><rs type="endstop">—</rs>dancing with beauty</l>
+               </lg>
+               
+               <lg>
+                  <l><rs type="metaphor">Clothed in African moonlight</rs><rs type="endstop">,</rs></l>
+                  <l><rs type="repetition">Smiling more <rs type="alliteration">beauty into its body</rs></rs><rs type="endstop">.</rs></l>
+               <l>The <rs type="repetition">hyena-faced monster</rs> yelps!</l>
+               <l>The twirling <rs type="repetition">body</rs>comes to a fall</l>
+                  <l>At the feet of the monster<rs type="endstop">.</rs></l>
+                  <l><rs type="repetition">Yelps</rs><rs type="endstop">—</rs></l>
+                  <l>Wild<rs type="endstop">—</rs></l>
+                  <l>Terror-filled<rs type="endstop">—</rs></l>
+                  <l>Echo<rs type="endstop">—</rs></l>
+                  <l>The<rs type="repetition">hyena-faced monster</rs><rs type="enjambment">jumps</rs></l>
+               <l>starts<rs type="endstop">,</rs></l>
+               <l>runs<rs type="endstop">,</rs></l>
+               <l>chases his own <rs type="repetition">yelps</rs> back to the wilderness<rs type="endstop">.</rs></l>
+               </lg>
+               
+               <l>The <rs type="repetition">black <rs type="alliteration">body</rs> </rs><rs type="repetition">clothed in <rs type="enjambment">moonlight</rs></rs></l>
+               
+               <l>Raises up its head<rs type="endstop">,</rs></l>
+               <l><rs type="personification">Holding a face <rs type="alliteration">dancing with delight</rs></rs><rs type="endstop">.</rs></l>
+               
+               <l><rs type="metaphor"><rs type="consonance">Terror reigns</rs></rs><rs type="simile">like</rs> a new <rs type="consonance">crowned king</rs><rs type="endstop">.</rs></l>
+            </div>
+            </div>
+            <byline>-Lewis Alexander</byline>
+         </body>
+      </text>
+   </TEI>
