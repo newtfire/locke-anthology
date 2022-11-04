@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Black Finger</title>
+            <author>Angelina Grimke</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 148, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"The Black Finger"</head>
+            <lg>
+               <l>I have just seen a most beautiful thing</l>
+                  <l>Slim and still,</l>
+                  <l>Against a gold, gold sky,</l>
+                  <l>A straight black cypress,</l>
+                 <l>Sensitive,</l>
+                 <l>Exquisite,</l>
+                 <l>A black finger</l>
+                <l>Pointing upwards.</l>
+                  <l>Why, beautiful still finger, are you black?</l>
+                  <l>And why are you pointing upwards?</l>
+            </lg>
+                     <byline>-Angelina Grimke</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
