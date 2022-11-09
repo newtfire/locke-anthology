@@ -1,45 +1,45 @@
-# rs/@type Values Sorted
-
-E
-POV
-actionWords
-alliteration
-assonance
-black
-body
-child
-color
-consonance
-endstop
-enjambment
-firstPerson
-food
-love
-male
-metaphor
-minstrelsy
-partTitle
-personification
-printingError
-race
-religion
-religon
-repetition
-rhyme
-rhymeA
-rhymeB
-rhymeC
-rhymeD
-rhymeE
-rhymeF
-rhymeG
-rhymeH
-rhymeI
-rhymeJ
-secondPerson
-setting
-simile
-theme:blackJoyAndYearningForFreedom
-thirdPerson
-white
-woman
+<?xml version="1.0" encoding="UTF-8"?>type:	E	subtype:	
+ type:	POV	subtype:	
+ type:	actionWords	subtype:	
+ type:	alliteration	subtype:	
+ type:	assonance	subtype:	
+ type:	black	subtype:	
+ type:	body	subtype:	
+ type:	cane	subtype:	
+ type:	child	subtype:	
+ type:	color	subtype:	
+ type:	consonance	subtype:	
+ type:	endstop	subtype:	
+ type:	enjambment	subtype:	
+ type:	firstPerson	subtype:	
+ type:	food	subtype:	
+ type:	longpause	subtype:	
+ type:	love	subtype:	
+ type:	male	subtype:	
+ type:	metaphor	subtype:	
+ type:	minstrelsy	subtype:	
+ type:	partTitle	subtype:	
+ type:	personification	subtype:	
+ type:	printingError	subtype:	
+ type:	race	subtype:	
+ type:	religion	subtype:	
+ type:	religon	subtype:	
+ type:	repetition	subtype:	
+ type:	rhyme	subtype:	
+ type:	rhymeA	subtype:	
+ type:	rhymeB	subtype:	
+ type:	rhymeC	subtype:	
+ type:	rhymeD	subtype:	
+ type:	rhymeE	subtype:	
+ type:	rhymeF	subtype:	
+ type:	rhymeG	subtype:	
+ type:	rhymeH	subtype:	
+ type:	rhymeI	subtype:	
+ type:	rhymeJ	subtype:	
+ type:	secondPerson	subtype:	
+ type:	setting	subtype:	
+ type:	simile	subtype:	
+ type:	theme:blackJoyAndYearningForFreedom	subtype:	
+ type:	thirdPerson	subtype:	
+ type:	white	subtype:	
+ type:	woman	subtype:	
