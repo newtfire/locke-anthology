@@ -1,0 +1,78 @@
+In Order of Hierarchy:
+
+Section
+<section></section>
+
+
+--------------------
+Measure:
+<measure></measure>
+
+Include: n="(number here)"
+
+
+--------------------
+Staff:
+Only used when multipl staffs are present (treble clef and bass clef)
+
+--------------------
+Layer:
+Simply surround measure elements with <layer></layer>
+This seams to be generally used in 
+
+--------------------
+Beaming:
+Surround beamed notes with:    <beam></beam>
+
+Include beam="x" attribute on notes or chords within the beam
+	beam="i1"
+		To indicate initial note of beam
+	beam="m1"
+		To indicate any middle notes of the beam
+	beam="t1"
+		To indicate any tail of the beam
+
+--------------------
+Chord
+Surround notes in a chord with <chord></chord>
+
+<chord dur="8" stem.dir="up">
+     <note xml:id="d1e116" pname="e" oct="2" accid.ges="f" />
+     <note xml:id="d1e134" pname="e" oct="3" accid.ges="f" />
+</chord>
+
+--------------------
+Notes
+<note xml:id="d1e169" pname="a" oct="4" dur="16" dur.ppq="1" beam="i1" stem.dir="up" accid.ges="f" />
+
+--------------------
+
+
+--------------------
+
+Example Hierarchy
+
+<section>
+   <measure n="1">
+
+      <staff n="1">
+         <layer n="1">
+            <rest dur="4"/>
+         </layer>
+      </staff>
+				<!--Bass Clef notes-->
+      <staff n="2">
+         <layer n="1">
+            <beam>
+               <note pname="c" oct="4" stem.dir="up" dur="4" beam="i1"/>
+               <chord dur="4" stem.dir="up" beam="t1">
+                  <note pname="c" oct="4" />
+                  <note pname="e" oct="4" />
+                  <note pname="g" oct="4" />
+               </chord>
+            <beam>
+         </layer>
+      </staff>
+
+   </measure>
+</section>

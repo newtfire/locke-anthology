@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei"
+    meiversion="3.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Example of a Minimal header</title>
+                <title>Der Abendstern: an electronic transcription</title>
+                <respStmt>
+                    <resp>Composed by:</resp>
+                    <persName role="creator" codedval="118611666" authority="GND"
+                        authURI="http://d-nb.info/gnd/">Robert Schumann</persName>
+                    <resp>Machine-readable transcription by:</resp>
+                    <persName role="encoder">John Doe</persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <unpub>Incomplete!</unpub>
+            </pubStmt>
+        </fileDesc>
+        <workList>
+            <work>
+                <title>Canon in D</title>
+                <composer>
+                    <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND"
+                        >Johann Pachelbel</persName>
+                </composer>
+                <key pname="d" mode="major">D major</key>
+                <meter count="4" unit="4"/>
+                <creation>Year of composition<date>1680</date> </creation>
+            </work>
+        </workList>
+    </meiHead>
+    <music/>
+    <body>
+        <mdiv>
+            <score>
+                <scoreDef meter.count="4" meter.unit="4" key.sig="2s" key.mode="major">
+                    <staffGrp bar.thru="true" symbol="brace">
+                        <staffDef n="1" clef.line="2" clef.shape="G" key.sig="2s" key.mode="major" lines="5"/>
+                    </staffGrp>
+                </scoreDef>
+                <section>
+                    <!--Measure 1-->
+                    <measure n="1">
+                        <staff n="1">
+                            <layer n="1">
+                                <rest dur="4"/>
+                                <rest dur="4"/>
+                                <rest dur="4"/>
+                                <chord>
+                                    <note pname="f" oct="4" stem.dir="up"/>
+                                    <note pname="d" oct="5" stem.dir="up"/>
+                                </chord>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2">
+                        <staff n="1">
+                            <layer n="1">
+                                <chord dur="2">
+                                    <note pname="f" oct="4" stem.dir="up"/>
+                                    <note pname="d" oct="5" stem.dir="up"/>
+                                </chord>
+                                <chord dur="4" dots="1">
+                                    <note pname="f" oct="4" stem.dir="up"/>
+                                    <note pname="d" oct="5" stem.dir="up"/>
+                                </chord>
+                                <chord dur="16">
+                                    <note pname="g" oct="4" stem.dir="up"/>
+                                    <note pname="b" oct="4" stem.dir="up"/>
+                                </chord>
+                                <chord dur="8">
+                                    <note pname="f" oct="4" stem.dir="up"/>
+                                    <note pname="a" oct="4" stem.dir="up"/>
+                                </chord>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3">
+                        <staff n="1">
+                            <layer n="1">
+                                <chord dur="8">
+                                    <note pname="f" oct="4" stem.dir="up"/>
+                                    <note pname="d" oct="5" stem.dir="up"/>
+                                </chord>
+                                <chord dur="4">
+                                    <note pname="g" oct="4" stem.dir="up"/>
+                                    <note pname="b" oct="4" stem.dir="up"/>
+                                </chord>
+                                <chord dur="8">
+                                    <note pname="f" oct="4" stem.dir="up"/>
+                                    <note pname="a" oct="4" stem.dir="up"/>
+                                </chord>
+                                <chord dur="16">
+                                    <note pname="f" oct="4" stem.dir="up"/>
+                                    <note pname="a" oct="4" stem.dir="up"/>
+                                </chord>
+                                <chord dur="4" dots="1">
+                                    <note pname="f" oct="4" stem.dir="up"/>
+                                    <note pname="a" oct="4" stem.dir="up"/>
+                                </chord>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+            </score>
+        </mdiv>
+    </body>
+</mei>
