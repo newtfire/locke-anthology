@@ -1,0 +1,14 @@
+body {
+    Background-color: FDF5E8;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+h2 {
+    text-align: center;
+}
+
+span.cursive {
+    text-align: right;
+    padding: 10px;
+}
