@@ -24,7 +24,7 @@
     
 </xsl:template>
     
-    <xsl:template match="lg | byline | l">
+    <xsl:template match="l">
         
         <p><xsl:apply-templates/></p>
         
