@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei"
+    meiversion="3.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>B'rer Rabbit Fools Buzzard</title>
+                <respStmt>
+                    <!--<resp>Composed by:</resp>
+                    <persName role="creator" codedval="118611666" authority="GND"
+                        authURI="http://d-nb.info/gnd/">Robert Schumann</persName> -->
+                    <resp>Machine-readable transcription by:</resp>
+                    <persName role="encoder">Zack Dominick</persName>
+                </respStmt>
+            </titleStmt>
+            <!-- <pubStmt>
+                <unpub>Incomplete!</unpub>
+            </pubStmt> -->
+        </fileDesc>
+        <workList>
+            <work>
+                <!-- <title>Canon in D</title>
+                <composer>
+                    <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND"
+                        >Johann Pachelbel</persName>
+                </composer> -->
+                <key pname="d" mode="major">A flat major</key>
+                <meter count="2" unit="4"/>
+                <!-- <creation>Year of composition<date>1680</date> </creation> -->
+            </work>
+        </workList>
+    </meiHead>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/264/mode/2up"/>
+    </facsimile>
+    <music/>
+    <body>
+        <mdiv>
+            <score>
+                <scoreDef meter.count="2" meter.unit="4" key.sig="4f" key.mode="major">
+                    <staffGrp bar.thru="true" symbol="brace">
+                        <staffDef n="1" clef.line="2" clef.shape="G" key.sig="4f" key.mode="major" lines="5"/>
+                    </staffGrp>
+                </scoreDef>
+                                  <!--First Piece-->
+                <section>
+                    <!--Measure 1-->
+                    <measure n="1">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="a" oct="4" dur="4" dots="1" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 4-->
+                    <measure n="4">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="g" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="4" dots="1" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+                                 <!--Second Piece-->
+                <section>
+                    <!--Measure 1-->
+                    <measure n="1">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="a" oct="4" dur="4" dots="1" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 4-->
+                    <measure n="4">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="g" oct="4" dur="8" stem.dir="up"/>
+                                <note pname="f" oct="4" dur="4" dots="1" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+                                  <!--Third Piece-->
+                <section>
+                    <!--Measure 1-->
+                    <measure n="1">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="c" oct="4" dur="4" dots="1" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+                                   <!--Fourth Piece-->
+                <section>
+                    <!--Measure 1-->
+                    <measure n="1">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="a" oct="4" dur="4" dots="1" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 4-->
+                    <measure n="4">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="g" oct="4" dur="8" stem.dir="up"/>
+                                <note pname="f" oct="4" dur="4" dots="1" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+                                  <!--Fifth Piece-->
+                <section>
+                    <!--Measure 1-->
+                    <measure n="1">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="a" oct="4" dur="4" dots="1" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 4-->
+                    <measure n="4">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="g" oct="4" dur="8" stem.dir="up"/>
+                                <note pname="f" oct="4" dur="4" dots="1" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+                                 <!--Sixth Piece-->
+                <section>
+                    <!--Measure 1-->
+                    <measure n="1">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="16" stem.dir="down"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                                <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="8" stem.dir="down"/>
+                                <note pname="a" oct="4" dur="4" dots="1" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 4-->
+                    <measure n="4">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="g" oct="4" dur="8" stem.dir="up"/>
+                                <note pname="f" oct="4" dur="4" dots="1" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+            </score>
+        </mdiv>
+    </body>
+</mei>
