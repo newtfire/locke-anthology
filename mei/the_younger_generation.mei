@@ -4,30 +4,29 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>Example of a Minimal header</title>
-                <title>Der Abendstern: an electronic transcription</title>
+                <title>This Volume is Dedicated to the Younger Generation</title>
                 <respStmt>
-                    <resp>Composed by:</resp>
+                    <!--<resp>Composed by:</resp>
                     <persName role="creator" codedval="118611666" authority="GND"
-                        authURI="http://d-nb.info/gnd/">Robert Schumann</persName>
+                        authURI="http://d-nb.info/gnd/">Robert Schumann</persName> -->
                     <resp>Machine-readable transcription by:</resp>
-                    <persName role="encoder">John Doe</persName>
+                    <persName role="encoder">Zack Dominick</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt>
+            <!-- <pubStmt>
                 <unpub>Incomplete!</unpub>
-            </pubStmt>
+            </pubStmt> -->
         </fileDesc>
         <workList>
             <work>
-                <title>Canon in D</title>
+                <!-- <title>Canon in D</title>
                 <composer>
                     <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND"
                         >Johann Pachelbel</persName>
-                </composer>
+                </composer> -->
                 <key pname="d" mode="major">D major</key>
                 <meter count="4" unit="4"/>
-                <creation>Year of composition<date>1680</date> </creation>
+                <!-- <creation>Year of composition<date>1680</date> </creation> -->
             </work>
         </workList>
     </meiHead>
