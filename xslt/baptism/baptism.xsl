@@ -5,19 +5,20 @@
     
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
         include-content-type="no" indent="yes"/>
-    
+   
+   
     <xsl:template match="/">
         <html>
             <head>
                 <title>An Earth Song</title>
-                <link rel="stylesheet" type="text/css" href="an_earth_song.css"/>        
+                <link rel="stylesheet" type="text/css" href="baptism.css"/>
             </head>
             <body>
                 <xsl:apply-templates select="descendant::div"/>
             </body>
         </html>
     </xsl:template>
-
+    
     <xsl:template match="head">
         <h2>
             <xsl:apply-templates/>
@@ -33,8 +34,6 @@
     <xsl:template match="byline">
         <span class="cursive">
             <xsl:apply-templates/>
-
         </span>
     </xsl:template>
-
 </xsl:stylesheet>
