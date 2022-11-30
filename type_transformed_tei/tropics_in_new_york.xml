@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Tropics in New York</title>
+                <author>Claude McKay</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 135, Half page.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>The Tropics in New York</head>
+                <lg>
+                    <l enjamb="no"><rs theme="food">Bananas</rs> ripe and <rs theme="color">green</rs>, and <rs theme="food">ginger</rs> <rhyme type="A">root</rhyme>,</l>
+                    <l enjamb="no"><rs theme="food">Cocoa</rs> in pods and alligator <rhyme type="B">pears</rhyme>,</l>
+                    <l enjamb="no">And <rs theme="food">tangerines and mangoes and grape</rs> <rhyme type="A">fruit</rhyme>,</l>
+                    <l enjamb="no">Fit for the highest prize at <rs theme="religion">parish</rs> <rhyme type="B">fairs</rhyme>.</l>
+                </lg>
+                <lg>
+                    <l enjamb="no">Set in the window, bringing <rhyme type="C">memories&gt;</rhyme></l>
+                    <l enjamb="no">Of <rs theme="food">fruit-trees</rs> laden by low-singing <rhyme type="D">rills</rhyme>,</l>
+                    <l enjamb="no">And dewy dawns, and mystical <rs theme="color">blue</rs> <rhyme type="slant"><rhyme type="C">skies&gt;</rhyme></rhyme></l>
+                    <l enjamb="no">In <rs theme="religion">benediction</rs> over <rs type="religon">nun-like</rs> <rhyme type="D">hills</rhyme>.</l>
+                </lg>
+                <lg>
+                    <l enjamb="no">My eyes grew dim, and I could no more <rhyme type="E">gaze</rhyme>;</l>
+                    <l enjamb="no">A wave of longing through my body <rhyme type="F">swept</rhyme>,</l>
+                    <l enjamb="no">And, hungry for the old familiar <rhyme type="E">ways</rhyme>,</l>
+                    <l enjamb="no">I turned aside and <rs theme="religion">bowed my head</rs> and <rhyme type="F">wept</rhyme>.</l>
+                </lg>
+                <byline>-Claude McKay</byline>
+            </div>
+        </body>
+    </text>
+</TEI>

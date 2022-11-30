@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>To a Brown Boy</title>
+                <author>Countée Cullen</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 129, half a page.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/132/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>“To A Brown Boy”</head>
+                
+                
+                <lg>
+                <lg type="quatrain">
+                    <l enjamb="no">That <rs theme="race">brown</rs> <rs theme="child">girl’s</rs> swagger gives a <rs type="rhyme">twitch</rs></l>
+                    <l enjamb="no">To beauty like a <rs type="rhyme">queen</rs>;</l>
+                    <l enjamb="no">Lad, never dam your <rs theme="body">body’s</rs> <rs type="rhyme">itch</rs></l>
+                    <l enjamb="no">When <rs theme="love">loveliness</rs> is <rs type="rhyme">seen</rs>.</l>
+                </lg>
+                </lg>
+                
+                
+                <lg>
+                <lg type="quatrain">
+                    <l enjamb="no">For there is ample room for <rs type="rhyme">bliss</rs></l>
+                    <l enjamb="no">In pride in clean, <rs theme="race">brown</rs> <rs type="rhyme"><rs theme="body">limbs</rs></rs>,</l>
+                    <l enjamb="no">And <rs type="personification"><rs theme="body">lips</rs> know</rs> better how to <rs type="rhyme">kiss</rs></l>
+                    <l enjamb="no">Than how to raise <rs theme="race">white</rs><rs type="rhyme"><rs theme="religion">hymns</rs></rs>.</l>
+                </lg>
+                </lg>
+                
+                
+                <lg>
+                <lg type="quatrain">
+                    <l enjamb="no">And when your <rs theme="body">body’s</rs> death gives <rs type="rhyme">birth</rs></l>
+                    <l enjamb="no">To soil for spring to <rs type="rhyme">crown</rs>,</l>
+                    <l enjamb="no"><rs theme="male">Men</rs> will not ask if that rare <rs type="rhyme">earth</rs></l>
+                    <l enjamb="no">Was <rs theme="race">white</rs> flesh once, or <rs type="rhyme"><rs theme="race">brown</rs></rs>.</l>   
+                </lg>
+                </lg>
+                <byline>Countée Cullen</byline>
+            </div>
+        </body>
+    </text>
+</TEI>

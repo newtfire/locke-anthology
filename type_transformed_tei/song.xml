@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Song</title>
+                <author>Langston Hughes</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Pulication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 143, Half Page</p>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="https://archive.org/details/newnegrointerpre00unse/page/143/mode/2up"/>
+</facsimile>   
+    <text>
+        <body>
+            <div>
+                <head>"Song"</head>
+<lg>
+    <l enjamb="no">Lovely, dark, and lonely one,</l>
+    <l enjamb="no">Bare your bosom to the sun,</l>
+    <l enjamb="no">Do not be afraid of light</l>
+    <l enjamb="no">You who are a child of night.</l>
+
+    <l enjamb="no">Open wide your arms to life,</l>
+    <l enjamb="no">Whirl in the wind of pain and strife,</l>
+    <l enjamb="no">Face the wall with the dark closed gate,</l>
+    <l enjamb="no">Beat with bare, brown fists</l>
+    <l enjamb="no">And wait.</l>
+</lg>
+    <byline>-Langston Hughes</byline>
+        </div>
+      </body>  
+    </text>
+</TEI>

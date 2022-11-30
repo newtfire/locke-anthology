@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Minstrel Man</title>
+                <author>Langston Hughes</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 144, Half page.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head><rs theme="minstrelsy">Minstrel</rs> Man</head>
+                <lg>
+                   <l enjamb="no">Because <rs POV="firstPerson">my</rs> mouth</l>
+                   <l enjamb="no">Is wide with laughter</l>
+                   <l enjamb="no">And my throat Is</l>
+                   <l enjamb="no">deep with <rhyme type="D">song</rhyme>,<caesura/></l>
+                   <l enjamb="no"><rs POV="secondPerson">You</rs> do not think</l>
+                   <l enjamb="no">I suffer after</l>
+                   <l enjamb="no">I have held my pain</l>
+                   <l enjamb="no">So <rhyme type="D">long</rhyme>.<caesura/></l>
+                </lg>
+                <lg>
+                   <l enjamb="no">Because my mouth</l>
+                   <l enjamb="no">Is wide with laughter,<caesura/></l>
+                   <l enjamb="no">You do not hear</l>
+                   <l enjamb="no">My inner <rhyme type="K">cry</rhyme>,<caesura/></l>
+                   <l enjamb="no">Because my feet</l>
+                   <l enjamb="no"><rs litDevice="metaphor">Are gay</rs> with dancing,<caesura/></l>
+                   <l enjamb="no">You do not know</l>
+                   <l enjamb="no">I <rhyme type="K"><rs litDevice="metaphor">die</rs></rhyme>.<caesura/></l>
+                </lg>
+                <byline>-Langston Hughes</byline>
+            </div>
+        </body>
+    </text>
+</TEI>
