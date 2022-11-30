@@ -22,24 +22,24 @@
                 <head>"Harlem Wine"</head>
                 <lg>
                     <l enjamb="no">This is not water running here,</l>
-                    <l enjamb="no">These thick rebellious streams</l>
-                    <l enjamb="no">That hurtle flesh and bone past fear</l>
+                    <l enjamb="yes">These thick rebellious streams</l>
+                    <l enjamb="yes">That hurtle flesh and bone past fear</l>
                     <l enjamb="no">Down alleyways of dreams.</l>
                 </lg>
             
             
                 <lg>
-                    <l enjamb="no">This is a wine that must flow on</l>
+                    <l enjamb="yes">This is a wine that must flow on</l>
                     <l enjamb="no">Not caring how or where,</l>
-                    <l enjamb="no">So it has ways to flow upon</l>
+                    <l enjamb="yes">So it has ways to flow upon</l>
                     <l enjamb="no">Where song is in the air.</l>
                 </lg>
             
             
                 <lg>
-                    <l enjamb="no">So it can woo an artful flute</l>
+                    <l enjamb="yes">So it can woo an artful flute</l>
                     <l enjamb="no">With loose, elastic lips,</l>
-                    <l enjamb="no">Its measurement of joy compute</l>
+                    <l enjamb="yes">Its measurement of joy compute</l>
                     <l enjamb="no">With blithe, ecstatic hips.</l>
                 </lg>
                 <byline>-Countée Cullen</byline>

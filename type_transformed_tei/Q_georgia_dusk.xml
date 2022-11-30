@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>“Georgia Dusk”</title>
+                <author>Jean Toomer</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Info6. rmation</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 136, 1 Page</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/136/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>Georgia Dusk</head>
+                
+                <lg>
+                    <l enjamb="yes">The sky, lazily disdaining to <rhyme type="A">pursue</rhyme></l>
+                    <l enjamb="yes">The setting sun, too indolent to <rhyme type="B">hold</rhyme></l>
+                    <l enjamb="no">A lengthened tournament for flashing <rhyme type="B">gold</rhyme>,</l>
+                    <l enjamb="no">Passively darkens for night’s <rhyme type="A">barbecue</rhyme>,</l>
+                </lg>
+                
+                <lg>
+                    <l enjamb="no">A feast of moon and men and barking <rhyme type="C">hounds</rhyme>,</l>
+                    <l enjamb="yes">An orgy for some genius of the <rhyme type="D">South</rhyme></l>
+                    <l enjamb="no">With blood-hot eyes and <rs theme="cane">cane</rs>-lipped scented <rhyme type="D">mouth</rhyme>,</l>
+                    <l enjamb="no">Surprised in making folk-songs from soul <rhyme type="C">sounds</rhyme>.</l>
+                </lg>
+                
+                <lg>
+                    <l enjamb="no"><rs litDevice="personification">The sawmill blows its whistle</rs>, buzz-saws <rhyme type="E">stop</rhyme>,</l>
+                    <l enjamb="no">And silence breaks the bud of knoll and <rhyme type="F">hill</rhyme>,</l>
+                    <l enjamb="yes">Soft settling pollen where ploughed lands <rhyme type="F">fulfill</rhyme></l>
+                    <l enjamb="no">Their early promise of a bumper <rhyme type="E">crop</rhyme>.</l>
+                </lg>
+                
+                <lg>
+                    <l enjamb="yes">Smoke from the pyramidal sawdust <rhyme type="G">pile</rhyme></l>
+                    <l enjamb="yes">Curls up, blue ghosts of trees, tarrying <rhyme type="H">low</rhyme></l>
+                    <l enjamb="yes">Where only chips and stumps are left to <rhyme type="H">show</rhyme></l>
+                    <l enjamb="no">The solid proof of former <rhyme type="G">domicile</rhyme>.</l>
+                </lg>
+                
+                <lg>
+                    <l enjamb="no">Meanwhile, the men, with vestiges of <rhyme type="I">pomp</rhyme>,</l>
+                    <l enjamb="no">Race memories of king and <rhyme type="J">caravan</rhyme>,</l>
+                    <l enjamb="no">High-priests, an ostrich, and a <rhyme type="J">juju-man</rhyme>,</l>
+                    <l enjamb="no">Go singing through the footpaths of the <rhyme type="I">swamp</rhyme>.</l>
+                </lg>
+                
+                <lg>
+                    <l enjamb="no">Their voices rise <caesura/>. . . the <rs litDevice="metaphor">pine trees are <rhyme type="K">guitars</rhyme></rs>,</l>
+                    <l enjamb="no">Strumming, <rs litDevice="simile">pine-needles fall like sheets of <rhyme type="L">rain</rhyme></rs> <caesura/>. . .</l>
+                    <l enjamb="yes">Their voices rise <caesura/>. . . the chorus of the <rhyme type="L"><rs theme="cane">cane</rs></rhyme></l>
+                    <l enjamb="no">Is carolling a vesper to the <rhyme type="K">stars</rhyme>.</l>
+                </lg>
+                
+                <lg>
+                    <l enjamb="yes">O singers, resinous and soft your <rhyme type="M">songs</rhyme></l>
+                    <l enjamb="no">Above the sacred whisper of the <rhyme type="N">pines</rhyme>,</l>
+                    <l enjamb="no">Give virgin lips to cornfield <rhyme type="N">concubines</rhyme>,</l>
+                    <l enjamb="no">Bring dreams of Christ to dusky <rs theme="cane">cane</rs>-lipped <rhyme type="M">throngs</rhyme>.</l>
+                </lg>
+                
+                <byline>-Jean Toomer</byline>
+            </div>
+        </body>
+    </text>
+</TEI>
