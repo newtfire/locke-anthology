@@ -6,14 +6,21 @@
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
         include-content-type="no" indent="yes"/>
     
+    <xsl:variable name="Poems" as="document-node()+"
+        select="collection('tei/?select=*.xml')"/>
+        
     <xsl:template match="/">
         <html>
             <head>
-                <title>An Earth Song</title>
-                <link rel="stylesheet" type="text/css" href="an_earth_song.css"/>        
+                <title>Poems</title>
+                <link rel="stylesheet" type="text/css" href="collection_tei.css"/>        
             </head>
             <body>
-                <xsl:apply-templates select="descendant::div"/>
+                <ol>
+                    <li>
+                <xsl:apply-templates select="$Poems//descendant::div"/>
+                    </li>
+                </ol>
             </body>
         </html>
     </xsl:template>
