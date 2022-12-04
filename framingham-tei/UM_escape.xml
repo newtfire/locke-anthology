@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Escape</title>
+                <author>Georgia Douglas Johnson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 147, half a page.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/152/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>Escape</head>
+                <l>Shadows, shadows,</l>
+                <l>Hug me round</l>
+                <l>So that I shall not be found</l>
+                <l>By sorrow:</l>
+                <l>She pursues me</l>
+                <l>Everywhere,</l>
+                <l>I can’t lose her</l>
+                <l>Anywhere.</l>
+                
+                <l>Fold me in your black</l>
+                <l>Abyss,</l>
+                <l>She will never look</l>
+                <l>In this,—</l>
+                <l>Shadows, shadows,</l>
+                <l>Hug me round</l>
+                <l>In your solitude</l>
+                <l>Profound.</l>
+                
+                <byline>Georgia Douglas Johnson</byline>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

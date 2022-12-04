@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ordeal</title>
+            <author>Georgia Douglas Johnson</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 146, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/152/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>THE ORDEAL</head>
+            
+            <lg>
+               <l>Ho! my brother,</l>
+               <l>Pass me not by so scornfully</l>
+               <l>I’m doing this living of being black,</l>
+               <l>Perhaps I bear your own life-pack,</l>
+               <l>And heavy, heavy is the load</l>
+               <l>That bends my body to the road.</l>
+            </lg>
+            
+            <lg>
+               <l>But I have kept a smile for fate,</l>
+               <l>I neither cry, nor cringe, nor hate,</l>
+               <l>Intrepidly, I strive to bear</l>
+               <l>This handicap. The planets wear</l>
+               <l>The Maker’s imprint, and with mine</l>
+               <l>I swing into their rhythmic line;</l>
+               <l>I ask—only for destiny,</l>
+               <l>Mine, not thine.</l>
+            </lg>
+            
+            
+            
+            
+            <byline>-Georgia Douglas Johnson</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
+

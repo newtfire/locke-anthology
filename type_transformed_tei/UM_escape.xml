@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Escape</title>
+                <author>Georgia Douglas Johnson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pg. 147, half a page.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/152/mode/2up"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>Escape</head>
+                <l enjamb="no">Shadows, shadows,</l>
+                <l enjamb="no">Hug me round</l>
+                <l enjamb="no">So that I shall not be found</l>
+                <l enjamb="no">By sorrow:</l>
+                <l enjamb="no">She pursues me</l>
+                <l enjamb="no">Everywhere,</l>
+                <l enjamb="no">I can’t lose her</l>
+                <l enjamb="no">Anywhere.</l>
+                
+                <l enjamb="no">Fold me in your black</l>
+                <l enjamb="no">Abyss,</l>
+                <l enjamb="no">She will never look</l>
+                <l enjamb="no">In this,—</l>
+                <l enjamb="no">Shadows, shadows,</l>
+                <l enjamb="no">Hug me round</l>
+                <l enjamb="no">In your solitude</l>
+                <l enjamb="no">Profound.</l>
+                
+                <byline>Georgia Douglas Johnson</byline>
+            </div>
+        </body>
+    </text>
+</TEI>

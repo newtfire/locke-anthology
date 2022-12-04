@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Negro Speaks Of Rivers</title>
+            <author>Langston Hughes</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 141, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/146/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>THE NEGRO SPEAKS OF RIVERS</head>
+            
+            <lg>
+               <l enjamb="no">I’ve known rivers . . .</l>
+               <l enjamb="no">I’ve known rivers ancient as the world and older than the flow</l>
+               <l enjamb="no">of human blood in human veins.</l>
+               <l enjamb="no">My soul has grown deep like the rivers.</l>
+            </lg>
+            
+            <lg>
+               <l enjamb="no">I bathed in the <placeName>Euphrates</placeName> when dawns were young,</l>
+               <l enjamb="no">I built my hut near the <placeName>Congo</placeName> and it lulled me to sleep,</l>
+               <l enjamb="no">I looked upon the <placeName>Nile</placeName> and raised the pyramids above it.</l>
+            </lg>
+            
+            <lg>
+               <l enjamb="no">I heard the singing of the <placeName>Mississippi</placeName> when</l>
+               <l enjamb="no"><name>Abe Lincoln</name> went down to <placeName>New Orleans</placeName>,</l>
+               <l enjamb="no">And I’ve seen its muddy bosom turn all golden in the sunset.</l> 
+            </lg>
+            
+            <lg>
+               <l enjamb="no">I’ve known rivers:</l>
+               <l enjamb="no">Ancient, dusky rivers,</l>
+               <l enjamb="no">My soul has grown deep like the rivers.</l>
+            </lg>
+            
+            
+            
+            <byline>-Langston Hughes</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

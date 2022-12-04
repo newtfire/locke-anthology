@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Russian Cathedral</title>
+            <author>Claude McKay</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 135</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <facsimile>
+     <graphic url="https://archive.org/details/newnegrointerpre00unse/page/140/mode/2up"/>
+  </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"RUSSIAN CATHEDRAL"</head>
+            <lg>
+               <l enjamb="no">Bow down my soul in worship very low</l>
+               <l enjamb="no">And in the holy silences be lost.</l>
+               <l enjamb="no">Bow down before the marble man of woe,</l>
+               <l enjamb="no">Bow down before the singing angel host.</l>
+            </lg>
+            <lg>
+               <l enjamb="no">What jewelled glory fills my spirit's eye!</l>
+               <l enjamb="no">What golden grandeur moves the depths of me!</l>
+               <l enjamb="no">The soaring arches lift me up on high</l>
+               <l enjamb="no">Taking my breath with their rare symmetry.</l>
+            </lg>
+            <lg>
+               <l enjamb="no">Bow down my soul and let the wondrous light</l>
+               <l enjamb="no">Of Beauty bathe thee from her lofty throne</l>
+               <l enjamb="no">Bow down before the wonder of man's might.</l>
+               <l enjamb="no">Bow down in worship, humble and alone;</l>
+               <l enjamb="no">Bow lowly down before the sacred sight</l>
+               <l enjamb="no">Of man's divinity alive in stone.</l>
+               
+               <byline>Claud McKay</byline>
+            </lg>
+         </div>
+      </body>
+  </text>
+</TEI>
