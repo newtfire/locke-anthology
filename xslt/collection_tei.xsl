@@ -7,13 +7,17 @@
         include-content-type="no" indent="yes"/>
     
     <xsl:variable name="Poems" as="document-node()+"
-        select="collection('tei/?select=*.xml')"/>
+        select="collection('../type_transformed_tei/?select=*.xml')"/>
+    <!-- 2022-12-04 ebb: I have revised the collection() to reach up and over to the official 
+        type_transformed_tei directory where the quality-controlled TEI is now stored.  -->
         
     <xsl:template match="/">
         <html>
             <head>
                 <title>Poems</title>
-                <link rel="stylesheet" type="text/css" href="collection_tei.css"/>        
+                <link rel="stylesheet" type="text/css" href="collection_tei.css"/>  
+                <!-- ebb: Consider where the CSS file will be locatd in relation to output HTML when it's being
+                developed in the docs/ directory for the project website. Does this line need to change? -->
             </head>
             <body>
                 <ol>
