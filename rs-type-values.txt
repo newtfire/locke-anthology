@@ -1,22 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?># rs/@type Values Sorted
-
-E
-POV
-actionWords
-black
-body
-cane
-child
-color
-female
-food
-love
-male
-minstrelsy
-printingError
-race
-religion
-religon
-setting
-theme:blackJoyAndYearningForFreedom
-white
+ type:	E	subtype:	
+ type:	POV	subtype:	firstPerson, secondPerson, thirdPerson
+ type:	actionWords	subtype:	
+ type:	litDevice	subtype:	simile, personification, metaphor, repetition, assonance, alliteration, consonance
+ type:	printingError	subtype:	
+ type:	religon	subtype:	
+ type:	setting	subtype:	
+ type:	theme	subtype:	male, love, religion, minstrelsy, food, color, cane, black, white, female, race, child, body
+ type:	theme:blackJoyAndYearningForFreedom	subtype:	
