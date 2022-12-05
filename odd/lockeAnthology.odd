@@ -70,6 +70,102 @@
         <moduleRef n="21" key="certainty"/>
 
       <moduleRef key="transcr" include="addSpan am damage damageSpan delSpan ex facsimile fw handNotes handShift line listTranspose metamark mod path redo restore retrace secl sourceDoc space subst substJoin supplied surplus transpose undo zone"/>
+        
+        <elementSpec ident="rs" module="core" mode="replace">
+          <gloss>referencing string</gloss>
+          <desc>applied in this project to mark literary analysis according to type and subtype categories</desc>
+          <classes mode="replace">
+            <memberOf key="att.global"/>
+            <memberOf key="att.naming"/>
+            <memberOf key="model.nameLike"/>
+       <!--      <memberOf key="att.typed" mode="delete"/>-->
+          </classes>
+          <content>
+            <macroRef key="macro.phraseSeq"/>
+          </content>
+          <attList org="choice">
+            <attList org="group">
+            <attDef ident="type" mode="replace" usage="req">
+              <valList type="closed">
+                <valItem ident="POV"/>
+              </valList>
+            </attDef>
+              <attDef ident="subtype" mode="replace" usage="req">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+                <valList type="semi">
+                  <valItem ident="firstPerson"/>
+                  <valItem ident="secondPerson"/>
+                  <valItem ident="thirdPerson"/>
+                </valList>
+              </attDef>
+             </attList>
+          <attList org="group">
+            <attDef ident="type" mode="replace" usage="req">
+              <valList type="closed">
+                <valItem ident="litDevice"/>
+              </valList>
+            </attDef>
+            <attDef ident="subtype" mode="replace" usage="req">
+              <datatype>
+                <dataRef key="teidata.enumerated"/>
+              </datatype>
+              <valList type="semi">
+                <valItem ident="simile"/>
+                <valItem ident="personification"/>
+                <valItem ident="metaphor"/>
+                <valItem ident="repetition"/>
+                <valItem ident="assonance"/>
+                <valItem ident="alliteration"/>
+                <valItem ident="consonance"/>
+              </valList>
+            </attDef>
+          </attList>
+            <attList org="group">
+              <attDef ident="type" mode="replace" usage="req">
+                <valList type="closed">
+                  <valItem ident="theme"/>
+                </valList>
+              </attDef>
+              <attDef ident="subtype" mode="replace" usage="req">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+                <valList type="semi">
+                  <valItem ident="female"/>
+                  <valItem ident="male"/>
+                  <valItem ident="love"/>
+                  <valItem ident="religion"/>
+                  <valItem ident="minstrelsy"/>
+                  <valItem ident="food"/>
+                  <valItem ident="color"/>
+                  <valItem ident="cane"/>
+                  <valItem ident="black"/>
+                  <valItem ident="white"/>
+                  <valItem ident="race"/>
+                  <valItem ident="child"/>
+                  <valItem ident="body"/>
+                </valList>
+              </attDef>
+            </attList>
+           <attList org="group">
+              <attDef ident="type" mode="replace" usage="req">
+                <valList type="closed">
+                  <valItem ident="actionWords"/>
+                  <valItem ident="printingError"/>
+                  <valItem ident="setting"/>
+                </valList>
+              </attDef>
+              <attDef ident="subtype" mode="replace" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+                <!--<valList type="open"/>-->
+              </attDef>
+            </attList>
+          </attList>
+        </elementSpec>
       
       
       </schemaSpec>
