@@ -69,7 +69,10 @@
 
         <moduleRef n="21" key="certainty"/>
 
-      <moduleRef key="transcr" include="addSpan am damage damageSpan delSpan ex facsimile fw handNotes handShift line listTranspose metamark mod path redo restore retrace secl sourceDoc space subst substJoin supplied surplus transpose undo zone"/></schemaSpec>
+      <moduleRef key="transcr" include="addSpan am damage damageSpan delSpan ex facsimile fw handNotes handShift line listTranspose metamark mod path redo restore retrace secl sourceDoc space subst substJoin supplied surplus transpose undo zone"/>
+      
+      
+      </schemaSpec>
     </body>
   </text>
 </TEI>

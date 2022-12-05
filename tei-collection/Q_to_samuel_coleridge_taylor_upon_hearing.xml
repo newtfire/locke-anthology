@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Samuel Coleridge Taylor, Upon Hearing His</title>
+            <author>Georgia Douglas Johnson</author>
+            <editor>Unknown</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 146, Half Page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/152/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>“TO SAMUEL COLERIDGE TAYLOR, UPON HEARING HIS”</head>
+            <lg>
+               <l enjamb="no">Strange to a sensing motherhood,</l>
+               <l enjamb="no">Loved as a toy—not understood,</l>
+               <l enjamb="no">Child of a dusky father, bold;</l>
+               <l enjamb="no">Frail little captive, exiled, cold.</l>
+            </lg>
+            <lg>
+               <l enjamb="no">Oft when the brooding planets sleep,</l>
+               <l enjamb="no">You through their drowsy empires creep,</l>
+               <l enjamb="no">Flinging your arms through their empty space,</l>
+               <l enjamb="no">Seeking the breast of an unknown face.</l>
+            </lg>
+            <byline>-Georgia Douglas Johnson</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -2,7 +2,8 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
-    version="3.0">
+    xmlns="http://www.tei-c.org/ns/1.0"
+    version="3.0" exclude-result-prefixes="xs">
    
     <xsl:mode on-no-match="shallow-copy"/>
     
@@ -23,7 +24,7 @@
         </xsl:for-each>
     </xsl:template>
     
-    <xsl:template match="l[.//rs[@type='enjambment']]">
+    <xsl:template match="l[.//rs[@*='enjambment']]">
         
         <l enjamb ="yes">
         <xsl:apply-templates/>
@@ -31,97 +32,100 @@
         
     </xsl:template>
     
-    <xsl:template match="l[not(@enjamb) and not descendant::rs[@type='enjambment'] or l[descendant::rs[@type='endstop']]">
+    <xsl:template match="l[not(@enjamb) and not(descendant::rs[@type='enjambment'])] | l[descendant::rs[@*='endstop']]">
         <l enjamb="no"><xsl:apply-templates/></l>
     </xsl:template>
     
-    <xsl:template match="rs[@type='enjambment']">
+    <xsl:template match="rs[@*='enjambment']">
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="rs[@type='endstop']">
+    <xsl:template match="rs[@*='endstop']">
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="rs[@type='male'] | rs[@theme='male']">
+    <xsl:template match="rs[@*='male'] | rs[@*='male']">
         <rs type="theme" subtype="male">
             <xsl:apply-templates/>
         </rs>
     </xsl:template>
     
-    <xsl:template match="rs[@type='woman'] | rs[@theme='female']">
+    <xsl:template match="rs[@*='woman'] | rs[@*='female']">
         <rs type="theme" subtype="female">
             <xsl:apply-templates/>
         </rs>
     </xsl:template>
+    <xsl:template match="rhyme[@type]">
+        <rhyme label="{@type}"><xsl:apply-templates/></rhyme>
+    </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeA']">
-        <rhyme type="A">
+    <xsl:template match="rs[@*='rhymeA']">
+        <rhyme label="A">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeB']">
-        <rhyme type="B">
+    <xsl:template match="rs[@*='rhymeB']">
+        <rhyme label="B">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeC']">
-        <rhyme type="C">
+    <xsl:template match="rs[@*='rhymeC']">
+        <rhyme label="C">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeD']">
-        <rhyme type="D">
+    <xsl:template match="rs[@*='rhymeD']">
+        <rhyme label="D">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeE']">
-        <rhyme type="E">
+    <xsl:template match="rs[@*='rhymeE']">
+        <rhyme label="E">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeF']">
-        <rhyme type="F">
+    <xsl:template match="rs[@*='rhymeF']">
+        <rhyme label="F">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeG']">
-        <rhyme type="G">
+    <xsl:template match="rs[@*='rhymeG']">
+        <rhyme label="G">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeH']">
-        <rhyme type="H">
+    <xsl:template match="rs[@*='rhymeH']">
+        <rhyme label="H">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeI']">
-        <rhyme type="I">
+    <xsl:template match="rs[@*='rhymeI']">
+        <rhyme label="I">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='rhymeJ']">
-        <rhyme type="J">
+    <xsl:template match="rs[@*='rhymeJ']">
+        <rhyme label="J">
             <xsl:apply-templates/>
         </rhyme>
     </xsl:template>
     
-    <xsl:template match="rs[@type='alliteration'] | rs[@litDevice='alliteration']">
+    <xsl:template match="rs[@*='alliteration']">
         <rs type="litDevice" subtype="alliteration">
             <xsl:apply-templates/>
         </rs>
     </xsl:template>
     
-    <xsl:template match="rs[@type='assonance'] | rs[@litDevice='assonance']">
+    <xsl:template match="rs[@*='assonance']">
         <rs type="litDevice" subtype="assonance">
             <xsl:apply-templates/>
         </rs>
@@ -135,6 +139,11 @@
     
         <xsl:template match="rs[@*='metaphor']">
         <rs type="litDevice" subtype="metaphor">
+            <xsl:apply-templates/>
+        </rs>
+    </xsl:template>
+    <xsl:template match="rs[@*='personification']">
+        <rs type="litDevice" subtype="personification">
             <xsl:apply-templates/>
         </rs>
     </xsl:template>
@@ -219,12 +228,6 @@
     
     <xsl:template match="rs[@*='child']">
         <rs type="theme" subtype="child">
-            <xsl:apply-templates/>
-        </rs>
-    </xsl:template>
-    
-    <xsl:template match="rs[@*='cane']">
-        <rs type="theme" subtype="cane">
             <xsl:apply-templates/>
         </rs>
     </xsl:template>

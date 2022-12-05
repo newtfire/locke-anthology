@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whtie Houses</title>
+            <author>Claude McKay</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 134, Half Page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/140/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>WHITE HOUSES</head>
+            <lg>
+               <l enjamb="no">Your door is shut against my tightened face,</l>
+               <l enjamb="no">And I am sharp as steel with discontent;</l>
+               <l enjamb="no">But I possess the courage and the grace</l>
+               <l enjamb="no">To bear my anger proudly and unbent.</l>
+               <l enjamb="no">The pavement slabs burn loose beneath my feet,</l>
+               <l enjamb="no">A chafing savage, down the decent street,</l>
+               <l enjamb="no">And passion rends my vitals as I pass,</l>
+               <l enjamb="no">Where boldly shines your shuttered door of glass.</l>
+               <l enjamb="no">Oh I must search for wisdom every hour,</l>
+               <l enjamb="no">Deep in my wrathful bosom sore and raw,</l>
+               <l enjamb="no">And find in it the superhuman power</l>
+               <l enjamb="no">To hold me to the letter of your law!</l>
+               <l enjamb="no">Oh I must keep my heart inviolate</l>
+               <l enjamb="no">Against the potent poison of your hate.</l>
+            </lg>
+            <byline>-Claude McKay</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

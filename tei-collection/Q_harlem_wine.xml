@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Harlem Wine</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 158, half a page.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/134/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"Harlem Wine"</head>
+            <lg>
+               <l enjamb="no">This is not water running here,</l>
+               <l enjamb="yes">These thick rebellious streams</l>
+               <l enjamb="yes">That hurtle flesh and bone past fear</l>
+               <l enjamb="no">Down alleyways of dreams.</l>
+            </lg>
+            <lg>
+               <l enjamb="yes">This is a wine that must flow on</l>
+               <l enjamb="no">Not caring how or where,</l>
+               <l enjamb="yes">So it has ways to flow upon</l>
+               <l enjamb="no">Where song is in the air.</l>
+            </lg>
+            <lg>
+               <l enjamb="yes">So it can woo an artful flute</l>
+               <l enjamb="no">With loose, elastic lips,</l>
+               <l enjamb="yes">Its measurement of joy compute</l>
+               <l enjamb="no">With blithe, ecstatic hips.</l>
+            </lg>
+            <byline>-Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

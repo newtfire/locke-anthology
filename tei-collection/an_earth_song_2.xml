@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Earth Song</title>
+            <author>Langston Hughes</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 142, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/142/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"AN EARTH SONG"</head>
+            <lg>
+               <l enjamb="no">It’s an earth song,</l>
+               <l enjamb="no">And I’ve been waiting long for an earth song.</l>
+               <l enjamb="no">It’s a spring song,—</l>
+               <l enjamb="no">And I’ve been waiting long for a spring song.</l>
+               <l enjamb="no">Strong as the shoots of a new plant</l>
+               <l enjamb="no">Strong as the bursting of new buds</l>
+               <l enjamb="no">Strong as the coming of the first child from its mother’s
+               womb.</l>
+               <l enjamb="no">It’s an earth song,</l>
+               <l enjamb="no">A body-song,</l>
+               <l enjamb="no">A spring song,—</l>
+               <l enjamb="no">I have been waiting long for this spring song.</l>
+               <byline>-Langston Hughes</byline>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

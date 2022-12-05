@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baptism</title>
+            <author>Claude McKay</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 133, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/138/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"BAPTISM"</head>
+            <lg>
+               <l enjamb="no">Into the furnace let me go alone;</l>
+               <l enjamb="no">Stay you without in terror of the heat.</l>
+            </lg>
+            <lg>
+               <l enjamb="no">I will go naked in—for thus ’tis sweet—</l>
+               <l enjamb="no">Into the weird depths of the hottest zone.</l>
+               <l enjamb="no">I will not quiver in the frailest bone,</l>
+               <l enjamb="no">You will not note a flicker of defeat;</l>
+               <l enjamb="no">My heart shall tremble not its fate to meet,</l>
+               <l enjamb="no">Nor mouth give utterance to any moan.</l>
+               <l enjamb="no">The yawning oven spits forth fiery spears;</l>
+               <l enjamb="no">Red aspish tongues shout wordlessly my name.</l>
+               <l enjamb="no">Desire destroys, consumes my mortal fears,</l>
+               <l enjamb="no">Transforming me into a shape of flame.</l>
+            </lg>
+            <lg>
+               <l enjamb="no">I will come out, back to your world of tears,</l>
+               <l enjamb="no">A stronger soul within a finer frame.</l>
+            </lg>
+            <byline>-Claude McKay</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fruit of the Flower</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 133 Half Page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>“In Memory Of Colonel Charles Young”</head>
+            <l enjamb="no">Along the shore the tall, thin grass</l>
+            <l enjamb="no">That fringes that dark river,</l>
+            <l enjamb="no">While sinuously soft feet pass,</l>
+            <l enjamb="no">Begins to bleed and quiver.</l>
+            <l enjamb="no">The great dark voice breaks with a sob</l>
+            <l enjamb="no">Across the womb of night;</l>
+            <l enjamb="no">Above your grave the tom-toms throb,</l>
+            <l enjamb="no">And the hills are weird with light.</l>
+            <l enjamb="no">The great dark heart is like a well</l>
+            <l enjamb="no">Drained bitter by the sky,</l>
+            <l enjamb="no">And all the honeyed lies they tell</l>
+            <l enjamb="no">Come there to thirst and die.</l>
+            <l enjamb="no">No lie is strong enough to kill</l>
+            <l enjamb="no">The roots that work below;</l>
+            <l enjamb="no">From your rich dust and slaughtered will</l>
+            <l enjamb="no">A tree with tongues will grow.</l>
+            <byline>Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

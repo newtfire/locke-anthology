@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Our Land</title>
+            <author>Langston Hughes</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 144, Half page.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"OUR LAND"</head>
+            <lg>
+               <l enjamb="no">
+                  <rs type="POV">We</rs> should have a land of <rhyme label="A">sun</rhyme>,</l>
+               <l enjamb="no">Of gorgeous <rs type="litDevice" subtype="repetition">
+                     <rhyme label="A">sun</rhyme>
+                  </rs>,</l>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="assonance">And a land</rs> of fragrant <rhyme label="B">water</rhyme>
+               </l>
+               <l enjamb="no">Where the twilight is a soft bandanna <rhyme label="C">handkerchief</rhyme>
+               </l>
+               <l enjamb="no">Of rose and <rhyme label="D">gold</rhyme>,</l>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="repetition">And not this <rhyme label="E">land</rhyme>
+                  </rs>
+               </l>
+               <l enjamb="no">Where life is <rhyme label="D">cold</rhyme>.</l>
+            </lg>
+            <lg>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="repetition">We should have a land</rs> of <rhyme label="F">trees</rhyme>,</l>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="repetition">Of</rs> tall thick <rs type="litDevice" subtype="repetition">
+                     <rhyme label="F">trees</rhyme>,</rs>
+               </l>
+               <l enjamb="yes">
+                  <rs type="litDevice" subtype="assonance">Bowed down</rs> with chattering <rhyme label="G">parrots</rhyme>
+               </l>
+               <l enjamb="no">Brilliant <rs type="litDevice" subtype="simile">as</rs> the <rhyme label="H">day</rhyme>,</l>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="repetition">And not this land</rs> where birds are <rhyme label="H">gray</rhyme>.</l>
+            </lg>
+            <lg>
+               <l enjamb="no">Ah, <rs type="POV">we</rs> should have a land of <rhyme label="I">joy</rhyme>,</l>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="repetition">Of</rs> love and joy and wine and <rhyme label="J">song</rhyme>,</l>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="repetition">And not this land</rs> where joy is <rhyme label="J">wrong</rhyme>.</l>
+            </lg>
+            <byline>-Langston Hughes</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

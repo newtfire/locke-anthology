@@ -1,7 +1,7 @@
 declare default element namespace "http://www.tei-c.org/ns/1.0";
-let $collection := collection('framingham-tei')
+let $collection := collection('type_transformed_tei')
 let $rs := $collection//rs
-let $rsTypes := $rs/@type ! normalize-space() => distinct-values() => sort()
+let $rsTypes := ($rs/@theme | $rs/@type) ! normalize-space() => distinct-values() => sort()
 return ("# rs/@type Values Sorted"|| "&#10;&#10;" || string-join($rsTypes, "&#10;"))
 
 (: In case we start using subtypes :)

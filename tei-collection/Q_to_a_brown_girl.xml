@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To a Brown Girl</title>
+            <author>Countée Cullen</author>
+            <editor>Unknown</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 129, half a page. Artwork present above the text of the poem.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/132/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>“TO A BROWN GIRL”</head>
+            <lg>
+               <lg type="quatrain">
+                  <l enjamb="no">What if <rs type="theme" subtype="male">his</rs> glance is bold and <rhyme label="A">free.</rhyme>
+                  </l>
+                  <l enjamb="no">
+                     <rs type="theme" subtype="male">His</rs> mouth the lash of <rhyme label="B">whips?</rhyme>
+                  </l>
+                  <l enjamb="no">So should the eyes of <rs type="theme" subtype="love">lovers</rs>
+                     <rhyme label="A">be,</rhyme>
+                  </l>
+                  <l enjamb="no">And so a <rs type="theme" subtype="love">lover's</rs>
+                     <rhyme label="B">lips.</rhyme>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <lg type="quatrain">
+                  <l enjamb="no">What if no <rs type="theme" subtype="religion"> puritanic</rs>
+                     <rhyme label="C">strain</rhyme>
+                  </l>
+                  <l enjamb="no">Confines <rs type="theme" subtype="male">him</rs> to the <rhyme label="D">nice?</rhyme>
+                  </l>
+                  <l enjamb="no">
+                     <rs type="theme" subtype="male">He</rs> will not pass this way <rhyme label="C">again</rhyme>
+                  </l>
+                  <l enjamb="no">Nor hunger for you <rhyme label="D">twice.</rhyme>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <lg type="quatrain">
+                  <l enjamb="no">Since in the end consort <rhyme label="E">together</rhyme>
+                  </l>
+                  <l enjamb="no">
+                     <name>Magdalen</name> and <name>
+                        <rhyme label="F">Mary</rhyme>
+                     </name>,</l>
+                  <l enjamb="no">Youth is the time for <rs type="litDevice" subtype="personification">careless <rhyme label="E">weather;</rhyme>
+                     </rs>
+                  </l>
+                  <l enjamb="no">Later, lass, be <rhyme label="F">wary.</rhyme>
+                  </l>
+               </lg>
+            </lg>
+            <byline>-Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

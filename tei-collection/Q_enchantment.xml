@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Enchantment</title>
+            <author>Lewis Alexander</author>
+            <editor>Hanna Durfee</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 149-150, 2 Pages.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head>"ENCHANTMENT"</head>
+            <div type="part">
+               <head>
+                  Part I
+               </head>
+               <head>
+                  <rs type="setting">Night</rs>
+               </head>
+               <lg>
+                  <l enjamb="no">The moonlight:</l>
+                  <l enjamb="yes">Juice<rs type="litDevice" subtype="assonance">
+                        <rs type="litDevice" subtype="alliteration">flowing from</rs> an over-ripe
+                     pomegranate</rs>
+                  </l>
+                  <l enjamb="yes">bursting</l>
+                  <l enjamb="no">The <rs type="litDevice" subtype="alliteration">cossack-crested</rs> palm
+                     trees:</l>
+                  <l enjamb="yes">motionless</l>
+                  <l enjamb="no">The leopard <rs type="litDevice" subtype="alliteration">spotted shade</rs>:</l>
+                  <l enjamb="yes">Inciting fear</l>
+                  <l enjamb="no">
+                     <rs type="litDevice" subtype="alliteration">silence seeds sown</rs>
+                     <caesura/>. . .</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  Part II
+               </head>
+               <l enjamb="no">
+                  <rs type="setting">Medicine Dance</rs>
+               </l>
+               <lg>
+                  <l enjamb="yes">A body <rs type="litDevice" subtype="personification">smiling </rs>with <rs type="litDevice" subtype="alliteration">black beauty</rs>
+                  </l>
+                  <l enjamb="yes">Leaping into the air</l>
+                  <l enjamb="no">Around a grotesque hyena-faced monster;</l>
+               </lg>
+               <lg>
+                  <l enjamb="no">The Sorcerer—</l>
+                  <l enjamb="no">A <rs type="litDevice" subtype="alliteration">black body</rs>—dancing with
+                     beauty</l>
+               </lg>
+               <lg>
+                  <l enjamb="no">
+                     <rs type="litDevice" subtype="metaphor">Clothed in African moonlight</rs>,</l>
+                  <l enjamb="no">
+                     <rs type="litDevice" subtype="repetition">Smiling more <rs type="litDevice" subtype="alliteration">beauty into its body</rs>
+                     </rs>.</l>
+                  <l enjamb="no">The <rs type="litDevice" subtype="repetition">hyena-faced monster</rs> yelps!</l>
+                  <l enjamb="no">The twirling <rs type="litDevice" subtype="repetition">body</rs>comes to a
+                     fall</l>
+                  <l enjamb="no">At the feet of the monster.</l>
+                  <l enjamb="no">
+                     <rs type="litDevice" subtype="repetition">Yelps</rs>—</l>
+                  <l enjamb="no">Wild—</l>
+                  <l enjamb="no">Terror-filled—</l>
+                  <l enjamb="no">Echo—</l>
+                  <l enjamb="yes">The<rs type="litDevice" subtype="repetition">hyena-faced monster</rs>jumps</l>
+                  <l enjamb="no">starts,</l>
+                  <l enjamb="no">runs,</l>
+                  <l enjamb="no">chases his own <rs type="litDevice" subtype="repetition">yelps</rs> back to the
+                     wilderness.</l>
+               </lg>
+               <l enjamb="yes">The <rs type="litDevice" subtype="repetition">black <rs type="litDevice" subtype="alliteration">body</rs>
+                  </rs>
+                  <rs type="litDevice" subtype="repetition">clothed in moonlight</rs>
+               </l>
+               <l enjamb="no">Raises up its head,</l>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="personification">Holding a face <rs type="litDevice" subtype="alliteration">dancing with delight</rs>
+                  </rs>.</l>
+               <l enjamb="no">
+                  <rs type="litDevice" subtype="metaphor">
+                     <rs type="litDevice" subtype="consonance">Terror
+                     reigns</rs>
+                  </rs>
+                  <rs type="litDevice" subtype="simile">like</rs> a new <rs type="litDevice" subtype="consonance">crowned king</rs>.</l>
+            </div>
+         </div>
+         <byline>-Lewis Alexander</byline>
+      </body>
+   </text>
+</TEI>
