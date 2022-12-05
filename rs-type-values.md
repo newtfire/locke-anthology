@@ -1,4 +1,4 @@
-# rs/@type Values Sorted
+# rs/@type Values Sorted, with @subtype values
 
  * type:	E	subtype:	
  * type:	POV	subtype:	firstPerson, secondPerson, thirdPerson
