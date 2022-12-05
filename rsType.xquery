@@ -7,6 +7,6 @@ let $rsTypes := ($rs/@theme | $rs/@type) ! normalize-space() => distinct-values(
 let $rsSubtypes := $rs/@subtype 
 let $rsSubTypeNoType := $rs[@subtype][not(@type)]
 for $i in $rsTypes  
-let $subtype := $rs[@type ! normalize-space() = $i]/@subtype ! normalize-space() 
-let $concat := ("type:" || "&#x9;" || $i || "&#x9;" || "subtype:" || "&#x9;" || $subtype || "&#10;")
+let $subtype := $rs[@type ! normalize-space() = $i]/@subtype ! normalize-space() => distinct-values() 
+let $concat := ("type:" || "&#x9;" || $i || "&#x9;" || "subtype:" || "&#x9;" || string-join($subtype, ', ') || "&#10;")
 return $concat

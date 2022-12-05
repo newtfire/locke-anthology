@@ -7,14 +7,14 @@
    
     <xsl:mode on-no-match="shallow-copy"/>
     
-    <xsl:variable name="teiCollection" as="document-node()+" select="collection('../type_transformed_tei/?select=*.xml')"/>
+    <xsl:variable name="teiCollection" as="document-node()+" select="collection('../tei-collection/?select=*.xml')"/>
         
     <xsl:template match="/">
         <xsl:for-each select="$teiCollection">
             <xsl:variable name="currentFile" as="document-node()" select="current()"/>
 
             <xsl:variable name="fileName" as="xs:string" select="$currentFile ! base-uri() ! tokenize(., '/')[last()]"/>
-            <xsl:result-document method="xml" indent="yes" href="../type_subtype_transformed_tei/{$fileName}">
+            <xsl:result-document method="xml" indent="yes" href="../tei-collection-rev/{$fileName}">
                 
                 <xsl:apply-templates/>
                 
@@ -172,12 +172,12 @@
         </rs>
     </xsl:template>
     
-    <xsl:template match="rs[@*='religion']">
+    <xsl:template match="rs[@*='religion'] | rs[@* = 'religon']">
         <rs type="theme" subtype="religion">
             <xsl:apply-templates/>
         </rs>
     </xsl:template>
-    
+ 
     <xsl:template match="rs[@*='race']">
         <rs type="theme" subtype="race">
             <xsl:apply-templates/>
