@@ -5,11 +5,11 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-10-19T17:15:56Z. .
+Schema generated from ODD source 2022-12-05T04:53:49Z. .
 TEI Edition: Version 4.4.0. Last updated on
         19th April 2022, revision ff9cc28b0
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.4.0/
-  
+ A schema for the Locke Anthology TEI project. 
 --><!--TEI material can be licensed differently depending on the use you intend to make of it. Hence it is made available under both the CC+BY and BSD-2 licences. The CC+BY licence is generally appropriate for usages which treat TEI content as data or documentation. The BSD-2 licence is generally appropriate for usage of TEI content in a software environment. For further information or clarification, please contact the TEI Consortium (info@tei-c.org).-->
    <define name="tei_macro.paraContent">
       <zeroOrMore>
@@ -3965,11 +3965,11 @@ Normalization 12. Critical Apparatus]</a:documentation>
    </define>
    <define name="tei_rs">
       <element name="rs">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(referencing string) contains a general purpose name or referring string. [13.2.1. Personal Names 3.6.1. Referring Strings]</a:documentation>
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(referencing string) applied in this project to mark literary analysis according to type and subtype categories</a:documentation>
          <ref name="tei_macro.phraseSeq"/>
          <ref name="tei_att.global.attributes"/>
          <ref name="tei_att.naming.attributes"/>
-         <ref name="tei_att.typed.attributes"/>
+         <empty/>
          <empty/>
       </element>
    </define>
