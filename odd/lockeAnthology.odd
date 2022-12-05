@@ -84,15 +84,6 @@
             <macroRef key="macro.phraseSeq"/>
           </content>
           <attList org="choice">
-              <attList org="group">
-                <attDef ident="type" mode="replace" usage="req">
-                <valList type="closed">
-                  <valItem ident="actionWords"/>
-                  <valItem ident="printingError"/>
-                  <valItem ident="setting"/>
-                </valList>
-              </attDef>
-              </attList>
             <attList org="group">
             <attDef ident="type" mode="replace" usage="req">
               <valList type="closed">
@@ -100,7 +91,10 @@
               </valList>
             </attDef>
               <attDef ident="subtype" mode="replace" usage="req">
-                <valList type="closed">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+                <valList type="semi">
                   <valItem ident="firstPerson"/>
                   <valItem ident="secondPerson"/>
                   <valItem ident="thirdPerson"/>
@@ -114,7 +108,10 @@
               </valList>
             </attDef>
             <attDef ident="subtype" mode="replace" usage="req">
-              <valList type="closed">
+              <datatype>
+                <dataRef key="teidata.enumerated"/>
+              </datatype>
+              <valList type="semi">
                 <valItem ident="simile"/>
                 <valItem ident="personification"/>
                 <valItem ident="metaphor"/>
@@ -132,7 +129,10 @@
                 </valList>
               </attDef>
               <attDef ident="subtype" mode="replace" usage="req">
-                <valList type="closed">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+                <valList type="semi">
                   <valItem ident="female"/>
                   <valItem ident="male"/>
                   <valItem ident="love"/>
@@ -147,6 +147,21 @@
                   <valItem ident="child"/>
                   <valItem ident="body"/>
                 </valList>
+              </attDef>
+            </attList>
+           <attList org="group">
+              <attDef ident="type" mode="replace" usage="req">
+                <valList type="closed">
+                  <valItem ident="actionWords"/>
+                  <valItem ident="printingError"/>
+                  <valItem ident="setting"/>
+                </valList>
+              </attDef>
+              <attDef ident="subtype" mode="replace" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+                <!--<valList type="open"/>-->
               </attDef>
             </attList>
           </attList>
