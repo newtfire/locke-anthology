@@ -17,7 +17,7 @@
             <head>
                 <title>Poems</title>
                 <link rel="stylesheet" type="text/css" href="collection_tei.css"/> 
-                <lin relx
+                
                 <!-- ebb: Consider where the CSS file will be locatd in relation to output HTML when it's being
                 developed in the docs/ directory for the project website. Does this line need to change? -->
             </head>
