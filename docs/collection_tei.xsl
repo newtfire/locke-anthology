@@ -20,17 +20,25 @@
 
             </head>
             <body>
-            
+              <div class="wrapper"> 
+                  <nav class="button">
+                    <form action="index.html"><button class="Home">Home</button></form>
+                    <form action="poems.html"><button class="Poems">Poems</button></form>
+                    <form action="authors.html"><button class="Authors">Authors</button></form>
+                    <form action="music.html"><button class="Music">Music</button></form>
+                </nav>
 
-                <xsl:apply-templates select="$Poems/TEI"/>
-
+               <div class="display"> 
+                   <xsl:apply-templates select="$Poems/TEI"/>
+               </div>
+              </div>
             </body>
         </html>
     </xsl:template>
     
     <xsl:template match="TEI">
         
-        <!-- Want to pull in any TEI Header contents?  -->
+        <!-- Want to pull in any teiHeader contents?  -->
         
         <!-- ebb: Not sure if we really want to process these. Commenting out for now.
             To see output of iframes with internet archive pages pulled in, see poems-iframes.html
