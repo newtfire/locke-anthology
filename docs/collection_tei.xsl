@@ -20,6 +20,7 @@
 
             </head>
             <body>
+                <h2>The New Negro Anthology, ed. Alaine Locke, 1925</h2>
               <div class="wrapper"> 
                   <nav class="button">
                     <form action="index.html"><button class="Home">Home</button></form>
