@@ -24,16 +24,16 @@
          <div>
             <head>"YOUTH"</head>
             <lg>
-               <l enjamb="no">We have to-morrow</l>
-               <l enjamb="no">Bright before us</l>
-               <l enjamb="no">Like a flame</l>
+               <l enjamb="yes">We have to-morrow</l>
+               <l enjamb="yes">Bright before us</l>
+               <l enjamb="yes">Like a flame</l>
             </lg>
             <lg>
-               <l enjamb="no">Yesterday, a night-gone thing</l>
-               <l enjamb="no">A sun-down name</l>
+               <l enjamb="yes">Yesterday, a night-gone thing</l>
+               <l enjamb="yes">A sun-down name</l>
             </lg>
             <lg>
-               <l enjamb="no">And dawn to-day</l>
+               <l enjamb="yes">And dawn to-day</l>
                <l enjamb="no">Broad arch above the road we came,</l>
                <l enjamb="no">We march!</l>
             </lg>

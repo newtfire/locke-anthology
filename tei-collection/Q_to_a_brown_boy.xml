@@ -26,11 +26,11 @@
             <head>“TO A BROWN BOY”</head>
             <lg>
                <lg type="quatrain">
-                  <l enjamb="no">That <rs type="theme" subtype="race">brown</rs>
+                  <l enjamb="yes">That <rs type="theme" subtype="race">brown</rs>
                      <rs type="theme" subtype="child">girl’s</rs> swagger gives a <rhyme label="A">twitch</rhyme>
                   </l>
                   <l enjamb="no">To beauty like a <rhyme label="B">queen</rhyme>;</l>
-                  <l enjamb="no">Lad, never dam your <rs type="theme" subtype="body">body’s</rs>
+                  <l enjamb="yes">Lad, never dam your <rs type="theme" subtype="body">body’s</rs>
                      <rhyme label="A">itch</rhyme>
                   </l>
                   <l enjamb="no">When <rs type="theme" subtype="love">loveliness</rs> is <rhyme label="B">seen</rhyme>.</l>
@@ -38,13 +38,13 @@
             </lg>
             <lg>
                <lg type="quatrain">
-                  <l enjamb="no">For there is ample room for <rhyme label="C">bliss</rhyme>
+                  <l enjamb="yes">For there is ample room for <rhyme label="C">bliss</rhyme>
                   </l>
                   <l enjamb="no">In pride in clean, <rs type="theme" subtype="race">brown</rs>
                      <rhyme label="D">
                         <rs type="theme" subtype="body">limbs</rs>
                      </rhyme>,</l>
-                  <l enjamb="no">And <rs type="litDevice" subtype="personification">
+                  <l enjamb="yes">And <rs type="litDevice" subtype="personification">
                         <rs type="theme" subtype="body">lips</rs> know</rs> better how to <rhyme label="C">kiss</rhyme>
                   </l>
                   <l enjamb="no">Than how to raise <rs type="theme" subtype="race">white</rs>
@@ -55,10 +55,10 @@
             </lg>
             <lg>
                <lg type="quatrain">
-                  <l enjamb="no">And when your <rs type="theme" subtype="body">body’s</rs> death gives <rhyme label="E">birth</rhyme>
+                  <l enjamb="yes">And when your <rs type="theme" subtype="body">body’s</rs> death gives <rhyme label="E">birth</rhyme>
                   </l>
                   <l enjamb="no">To soil for spring to <rhyme label="F">crown</rhyme>,</l>
-                  <l enjamb="no">
+                  <l enjamb="yes">
                      <rs type="theme" subtype="male">Men</rs> will not ask if that rare <rhyme label="E">earth</rhyme>
                   </l>
                   <l enjamb="no">Was <rs type="theme" subtype="race">white</rs> flesh once, or <rhyme label="F">

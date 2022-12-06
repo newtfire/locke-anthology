@@ -26,12 +26,12 @@
             <lg>
                <l enjamb="no">Lovely, dark, and lonely one,</l>
                <l enjamb="no">Bare your bosom to the sun,</l>
-               <l enjamb="no">Do not be afraid of light</l>
+               <l enjamb="yes">Do not be afraid of light</l>
                <l enjamb="no">You who are a child of night.</l>
                <l enjamb="no">Open wide your arms to life,</l>
                <l enjamb="no">Whirl in the wind of pain and strife,</l>
                <l enjamb="no">Face the wall with the dark closed gate,</l>
-               <l enjamb="no">Beat with bare, brown fists</l>
+               <l enjamb="yes">Beat with bare, brown fists</l>
                <l enjamb="no">And wait.</l>
             </lg>
             <byline>-Langston Hughes</byline>
