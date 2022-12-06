@@ -24,8 +24,8 @@
          <div>
             <head>THE NEGRO SPEAKS OF RIVERS</head>
             <lg>
-               <l enjamb="no">I’ve known rivers . . .</l>
-               <l enjamb="no">I’ve known rivers ancient as the world and older than the flow</l>
+               <l enjamb="no">I’ve known rivers . . .<caesura/></l>
+               <l enjamb="yes">I’ve known rivers ancient as the world and older than the flow</l>
                <l enjamb="no">of human blood in human veins.</l>
                <l enjamb="no">My soul has grown deep like the rivers.</l>
             </lg>
@@ -35,7 +35,7 @@
                <l enjamb="no">I looked upon the <placeName>Nile</placeName> and raised the pyramids above it.</l>
             </lg>
             <lg>
-               <l enjamb="no">I heard the singing of the <placeName>Mississippi</placeName> when</l>
+               <l enjamb="yes">I heard the singing of the <placeName>Mississippi</placeName> when</l>
                <l enjamb="no">
                   <name>Abe Lincoln</name> went down to <placeName>New Orleans</placeName>,</l>
                <l enjamb="no">And I’ve seen its muddy bosom turn all golden in the sunset.</l>

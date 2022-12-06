@@ -26,7 +26,7 @@
             <lg>
                <l enjamb="no">Your door is shut against my tightened face,</l>
                <l enjamb="no">And I am sharp as steel with discontent;</l>
-               <l enjamb="no">But I possess the courage and the grace</l>
+               <l enjamb="yes">But I possess the courage and the grace</l>
                <l enjamb="no">To bear my anger proudly and unbent.</l>
                <l enjamb="no">The pavement slabs burn loose beneath my feet,</l>
                <l enjamb="no">A chafing savage, down the decent street,</l>
@@ -34,9 +34,9 @@
                <l enjamb="no">Where boldly shines your shuttered door of glass.</l>
                <l enjamb="no">Oh I must search for wisdom every hour,</l>
                <l enjamb="no">Deep in my wrathful bosom sore and raw,</l>
-               <l enjamb="no">And find in it the superhuman power</l>
+               <l enjamb="yes">And find in it the superhuman power</l>
                <l enjamb="no">To hold me to the letter of your law!</l>
-               <l enjamb="no">Oh I must keep my heart inviolate</l>
+               <l enjamb="yes">Oh I must keep my heart inviolate</l>
                <l enjamb="no">Against the potent poison of your hate.</l>
             </lg>
             <byline>-Claude McKay</byline>

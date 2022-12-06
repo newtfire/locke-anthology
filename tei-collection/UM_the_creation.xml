@@ -28,7 +28,7 @@
             <lg>
                <l enjamb="no">And <name>God</name> stepped out on space,</l>
                <l enjamb="no">And He looked around and said,</l>
-               <l enjamb="no">
+               <l enjamb="yes">
                   <said>“I'm lonely</said>
                </l>
                <l enjamb="no">
@@ -36,9 +36,9 @@
                </l>
             </lg>
             <lg>
-               <l enjamb="no">And as far as the eye of <name>God</name> could see</l>
+               <l enjamb="yes">And as far as the eye of <name>God</name> could see</l>
                <l enjamb="no">Darkness covered everything,</l>
-               <l enjamb="no">Blacker than a hundred midnights</l>
+               <l enjamb="yes">Blacker than a hundred midnights</l>
                <l enjamb="no">Down in a cypress swamp.</l>
             </lg>
             <lg>
@@ -54,34 +54,34 @@
             </lg>
             <lg>
                <l enjamb="no">Then <name>God</name> reached out and took the light in His hands,</l>
-               <l enjamb="no">And <name>God</name> rolled the light around in His hands</l>
+               <l enjamb="yes">And <name>God</name> rolled the light around in His hands</l>
                <l enjamb="no">Until He made the sun;</l>
                <l enjamb="no">And He set that sun a-blazing in the heavens.</l>
-               <l enjamb="no">And the light that was left from making the sun</l>
-               <l enjamb="no">
+               <l enjamb="yes">And the light that was left from making the sun</l>
+               <l enjamb="yes">
                   <name>God</name> gathered it up in a shining ball</l>
                <l enjamb="no">And flung it against the darkness,</l>
                <l enjamb="no">Spangling the night with the moon and stars.</l>
-               <l enjamb="no">Then down between</l>
-               <l enjamb="no">The darkness and the light</l>
+               <l enjamb="yes">Then down between</l>
+               <l enjamb="yes">The darkness and the light</l>
                <l enjamb="no">He hurled the world;</l>
                <l enjamb="no">And <name>God</name> said, <said>“That's good,"</said>
                </l>
             </lg>
             <lg>
                <l enjamb="no">Then <name>God</name> Himself stepped down—</l>
-               <l enjamb="no">And the sun was on His right hand</l>
+               <l enjamb="yes">And the sun was on His right hand</l>
                <l enjamb="no">And the moon was on His left;</l>
                <l enjamb="no">The stars were clustered about His head,</l>
                <l enjamb="no">And the earth was under His feet.</l>
-               <l enjamb="no">And <name>God</name> walked, and where He trod</l>
-               <l enjamb="no">His footsteps hollowed the valleys out</l>
+               <l enjamb="yes">And <name>God</name> walked, and where He trod</l>
+               <l enjamb="yes">His footsteps hollowed the valleys out</l>
                <l enjamb="no">And bulged the mountains up.</l>
             </lg>
             <lg>
-               <l enjamb="no">Then He stopped and looked, and saw</l>
+               <l enjamb="yes">Then He stopped and looked, and saw</l>
                <l enjamb="no">That the <placeName>earth</placeName> was hot and barren.</l>
-               <l enjamb="no">So <name>God</name> stepped over to the edge of the world</l>
+               <l enjamb="yes">So <name>God</name> stepped over to the edge of the world</l>
                <l enjamb="no">And He spat out the seven seas;</l>
                <l enjamb="no">He batted His eyes, and the lightnings flashed;</l>
                <l enjamb="no">He clapped His hands, and the thunders rolled;</l>
@@ -107,9 +107,9 @@
                <l enjamb="no">Over the sea and over the land,</l>
                <l enjamb="no">And He said, <said>“Bring forth. Bring forth.”</said>
                </l>
-               <l enjamb="no">And quicker than <name>God</name> could drop His hand</l>
-               <l enjamb="no">Fishes and fowls</l>
-               <l enjamb="no">And beasts and birds</l>
+               <l enjamb="yes">And quicker than <name>God</name> could drop His hand</l>
+               <l enjamb="yes">Fishes and fowls</l>
+               <l enjamb="yes">And beasts and birds</l>
                <l enjamb="no">Swam the rivers and the seas,</l>
                <l enjamb="no">Roamed the forests and the woods,</l>
                <l enjamb="no">And split the air with their wings.</l>
@@ -118,7 +118,7 @@
             </lg>
             <lg>
                <l enjamb="no">Then <name>God</name> walked around,</l>
-               <l enjamb="no">And <name>God</name> looked around</l>
+               <l enjamb="yes">And <name>God</name> looked around</l>
                <l enjamb="no">On all that He had made.</l>
                <l enjamb="no">He looked at His sun,</l>
                <l enjamb="no">And He looked at His moon,</l>
@@ -129,7 +129,7 @@
                </l>
             </lg>
             <lg>
-               <l enjamb="no">Then <name>God</name> sat down</l>
+               <l enjamb="yes">Then <name>God</name> sat down</l>
                <l enjamb="no">On the side of a hill where He could think;</l>
                <l enjamb="no">By a deep, wide river He sat down;</l>
                <l enjamb="no">With His head in His hands,</l>
@@ -139,22 +139,22 @@
                </l>
             </lg>
             <lg>
-               <l enjamb="no">Up from the bed of a river</l>
+               <l enjamb="yes">Up from the bed of a river</l>
                <l enjamb="no">
                   <name>God</name> scooped the clay;</l>
-               <l enjamb="no">And by the bank of the river</l>
+               <l enjamb="yes">And by the bank of the river</l>
                <l enjamb="no">He kneeled Him down;</l>
             </lg>
             <pb n="4"/>
             <lg>
-               <l enjamb="no">And there the great <name>God</name> Almighty</l>
+               <l enjamb="yes">And there the great <name>God</name> Almighty</l>
                <l enjamb="no">Who lit the sun and fixed it in the sky,</l>
                <l enjamb="no">Who flung the stars to the most far corner of the night,</l>
                <l enjamb="no">Who rounded the earth in the middle of His hand;</l>
                <l enjamb="no">This Great <name>God</name>,</l>
                <l enjamb="no">Like a mammy bending over her baby,</l>
-               <l enjamb="no">Kneeled down in the dust</l>
-               <l enjamb="no">Toiling over a lump of clay</l>
+               <l enjamb="yes">Kneeled down in the dust</l>
+               <l enjamb="yes">Toiling over a lump of clay</l>
                <l enjamb="no">Till He shaped it in His own image;</l>
             </lg>
             <lg>

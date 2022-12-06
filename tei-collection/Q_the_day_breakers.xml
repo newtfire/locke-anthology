@@ -25,9 +25,9 @@
          <div>
             <head>THE DAY-BREAKERS</head>
             <lg>
-               <l enjamb="no">We are not come to wage a strife</l>
+               <l enjamb="yes">We are not come to wage a strife</l>
                <l enjamb="no">With swords upon this hill,</l>
-               <l enjamb="no">It is not wise to waste the life</l>
+               <l enjamb="yes">It is not wise to waste the life</l>
                <l enjamb="no">Against a stubborn will.</l>
                <l enjamb="no">Yet would we die as some have done.</l>
                <l enjamb="no">Beating a way for the rising sun.</l>

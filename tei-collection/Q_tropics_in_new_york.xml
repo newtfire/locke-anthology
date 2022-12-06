@@ -36,10 +36,10 @@
                   <rhyme label="B">fairs</rhyme>.</l>
             </lg>
             <lg>
-               <l enjamb="no">Set in the window, bringing <rhyme label="C">memories&gt;</rhyme>
+               <l enjamb="yes">Set in the window, bringing <rhyme label="C">memories&gt;</rhyme>
                </l>
                <l enjamb="no">Of <rs type="theme" subtype="food">fruit-trees</rs> laden by low-singing <rhyme label="D">rills</rhyme>,</l>
-               <l enjamb="no">And dewy dawns, and mystical <rs type="theme" subtype="color">blue</rs>
+               <l enjamb="yes">And dewy dawns, and mystical <rs type="theme" subtype="color">blue</rs>
                   <rhyme label="slant">
                      <rhyme label="C">skies&gt;</rhyme>
                   </rhyme>
