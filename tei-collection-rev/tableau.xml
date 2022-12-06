@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>“Tableau”</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Info6. rmation</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Pg. 130, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/130/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div part="N" org="uniform" sample="complete">
+            <head>Tableau</head>
+            <lg type="quatrain"
+                rhyme="abab"
+                part="N"
+                org="uniform"
+                sample="complete">
+               <l enjamb="no" part="N">Locked arm in arm they cross the <rhyme label="a">way</rhyme>,</l>
+               <l enjamb="no" part="N">The black boy and the <rhyme label="b">white</rhyme>,</l>
+               <l enjamb="no" part="N">The golden splendor of the <rhyme label="a">day</rhyme>
+               </l>
+               <l enjamb="no" part="N">The sable pride of <rhyme label="b">night</rhyme>.</l>
+            </lg>
+            <lg type="quatrain"
+                rhyme="cdcd"
+                part="N"
+                org="uniform"
+                sample="complete">
+               <l enjamb="no" part="N">From lowered blinds the dark folk <rhyme label="c">stare</rhyme>
+               </l>
+               <l enjamb="no" part="N">And here the fair folk <rhyme label="d">talk</rhyme>,</l>
+               <l enjamb="no" part="N">Indignant that these two should <rhyme label="c">dare</rhyme>
+               </l>
+               <l enjamb="no" part="N">In unison to <rhyme label="d">walk</rhyme>.</l>
+            </lg>
+            <lg type="quatrain"
+                rhyme="efef"
+                part="N"
+                org="uniform"
+                sample="complete">
+               <l enjamb="no" part="N">Oblivious to look and <rhyme label="e">word</rhyme>
+               </l>
+               <l enjamb="no" part="N">They pass, and see no <rhyme label="f">wonder</rhyme>
+               </l>
+               <l enjamb="no" part="N">That <rs type="litDevice" subtype="simile">lightning brilliant as a <rhyme label="e">sword</rhyme>
+                  </rs>
+               </l>
+               <l enjamb="no" part="N">Should blaze the path of <rhyme label="f">thunder</rhyme>.</l>
+            </lg>
+            <byline>-Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>She Of The Dancing Feet Sings</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Pg. 131, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div part="N" org="uniform" sample="complete">
+            <head>"SHE OF THE DANCING FEET SINGS"</head>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no">And what would I do in <rs type="Religion">heaven,</rs> pray,</l>
+               <l enjamb="no">Me with my dancing feet,</l>
+               <l enjamb="no">And <rs type="Simile">limbs like apple boughs that sway</rs>
+               </l>
+               <l enjamb="no">When the gusty rain winds beat?</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no">And how would I thrive in a perfect place</l>
+               <l enjamb="no">
+                  <rs type="Religion">Where dancing would be sin,</rs>
+               </l>
+               <l enjamb="no">With not a man to love my face,</l>
+               <l enjamb="no">Nor an arm to hold me in?</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no">
+                  <rs type="Religion">The seraphs and the cherubim</rs>
+               </l>
+               <l enjamb="no">Would be too proud to bend</l>
+               <l enjamb="no">To sing the faery tunes that brim</l>
+               <l enjamb="no">My heart from end to end.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no">The wistful <rs type="Religion">angels</rs> down in <rs type="Religion">hell</rs>
+               </l>
+               <l enjamb="no">Will smile to see my face,</l>
+               <l enjamb="no">And understand, because they fell</l>
+               <l enjamb="no">From that all-perfect place.</l>
+            </lg>
+            <byline>-Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

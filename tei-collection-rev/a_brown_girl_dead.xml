@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brown Girl Dead</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Pg. 131, Half page.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div part="N" org="uniform" sample="complete">
+            <head>"A <rs type="theme" subtype="black">Brown</rs> Girl Dead"</head>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">With two <rs type="theme" subtype="white">white</rs> roses on <rs type="POV" subtype="thirdPerson">her</rs>
+                  <rhyme label="A">breasts</rhyme>,</l>
+               <l enjamb="no" part="N">
+                  <rs type="theme" subtype="white">White</rs> candles at head and <rhyme label="B">feet</rhyme>,</l>
+               <l enjamb="no" part="N">
+                  <persName instant="false" full="yes">Dark <rs type="theme" subtype="religion">Madonna</rs>
+                  </persName> of the grave she <rhyme label="A">rests</rhyme>;</l>
+               <l enjamb="no" part="N">
+                  <persName instant="false" full="yes">Lord Death</persName> has found her <rhyme label="B">sweet</rhyme>.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">
+                  <rs type="theme" subtype="female">Her mother</rs> pawned her wedding <rhyme label="C">ring</rhyme>
+               </l>
+               <l enjamb="no" part="N">To lay her out in <rhyme label="D">white</rhyme>;</l>
+               <l enjamb="no" part="N">
+                  <rs type="theme" subtype="love">She’d be so proud</rs> she’d dance and <rhyme label="C">sing</rhyme>
+               </l>
+               <l enjamb="no" part="N">To see herself <rhyme label="D">to-night</rhyme>.</l>
+            </lg>
+            <byline>-Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

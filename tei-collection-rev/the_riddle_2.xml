@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"The Riddle"</title>
+            <author>Georgia Douglas Johnson</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Pg. 147, Half Page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N">
+                          "The Riddle"
+               
+           
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no">
+                  <rs type="Color">White</rs> men’s children spread over the earth—</l>
+               <l enjamb="no">A <rs type="Color">rainbow</rs> suspending the drawn swords of birth,</l>
+               <l enjamb="no">Uniting and blending the races in one</l>
+               <l enjamb="no">The world man—cosmopolite—everyman’s son!</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no">He channels the stream of the <rs type="Color">red blood and blue,</rs>
+               </l>
+               <l enjamb="no"> Behold him! A Triton—the peer of the two;</l>
+               <l enjamb="no"> Unriddle this riddle of “outside in”</l>
+               <l enjamb="no">
+                  <rs type="Color">White</rs> men’s children in <rs type="Color">black</rs> men’s skin.</l>
+            </lg>
+         </p>
+         <byline>-Georgia Douglas Johnson</byline>
+      </body>
+   </text>
+</TEI>

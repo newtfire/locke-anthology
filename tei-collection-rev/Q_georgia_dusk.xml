@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>“Georgia Dusk”</title>
+            <author>Jean Toomer</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Info6. rmation</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Pg. 136, 1 Page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/136/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div part="N" org="uniform" sample="complete">
+            <head>Georgia Dusk</head>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="yes" part="N">The sky, lazily disdaining to <rhyme label="A">pursue</rhyme>
+               </l>
+               <l enjamb="yes" part="N">The setting sun, too indolent to <rhyme label="B">hold</rhyme>
+               </l>
+               <l enjamb="no" part="N">A lengthened tournament for flashing <rhyme label="B">gold</rhyme>,</l>
+               <l enjamb="no" part="N">Passively darkens for night’s <rhyme label="A">barbecue</rhyme>,</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">A feast of moon and men and barking <rhyme label="C">hounds</rhyme>,</l>
+               <l enjamb="yes" part="N">An orgy for some genius of the <rhyme label="D">South</rhyme>
+               </l>
+               <l enjamb="no" part="N">With blood-hot eyes and <rs type="theme" subtype="cane">cane</rs>-lipped scented <rhyme label="D">mouth</rhyme>,</l>
+               <l enjamb="no" part="N">Surprised in making folk-songs from soul <rhyme label="C">sounds</rhyme>.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">
+                  <rs type="litDevice" subtype="personification">The sawmill blows its whistle</rs>, buzz-saws <rhyme label="E">stop</rhyme>,</l>
+               <l enjamb="no" part="N">And silence breaks the bud of knoll and <rhyme label="F">hill</rhyme>,</l>
+               <l enjamb="yes" part="N">Soft settling pollen where ploughed lands <rhyme label="F">fulfill</rhyme>
+               </l>
+               <l enjamb="no" part="N">Their early promise of a bumper <rhyme label="E">crop</rhyme>.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="yes" part="N">Smoke from the pyramidal sawdust <rhyme label="G">pile</rhyme>
+               </l>
+               <l enjamb="yes" part="N">Curls up, blue ghosts of trees, tarrying <rhyme label="H">low</rhyme>
+               </l>
+               <l enjamb="yes" part="N">Where only chips and stumps are left to <rhyme label="H">show</rhyme>
+               </l>
+               <l enjamb="no" part="N">The solid proof of former <rhyme label="G">domicile</rhyme>.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">Meanwhile, the men, with vestiges of <rhyme label="I">pomp</rhyme>,</l>
+               <l enjamb="no" part="N">Race memories of king and <rhyme label="J">caravan</rhyme>,</l>
+               <l enjamb="no" part="N">High-priests, an ostrich, and a <rhyme label="J">juju-man</rhyme>,</l>
+               <l enjamb="no" part="N">Go singing through the footpaths of the <rhyme label="I">swamp</rhyme>.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">Their voices rise <caesura/>. . . the <rs type="litDevice" subtype="metaphor">pine trees are <rhyme label="K">guitars</rhyme>
+                  </rs>,</l>
+               <l enjamb="no" part="N">Strumming, <rs type="litDevice" subtype="simile">pine-needles fall like sheets of <rhyme label="L">rain</rhyme>
+                  </rs>
+                  <caesura/>. . .</l>
+               <l enjamb="yes" part="N">Their voices rise <caesura/>. . . the chorus of the <rhyme label="L">
+                     <rs type="theme" subtype="cane">cane</rs>
+                  </rhyme>
+               </l>
+               <l enjamb="no" part="N">Is carolling a vesper to the <rhyme label="K">stars</rhyme>.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="yes" part="N">O singers, resinous and soft your <rhyme label="M">songs</rhyme>
+               </l>
+               <l enjamb="no" part="N">Above the sacred whisper of the <rhyme label="N">pines</rhyme>,</l>
+               <l enjamb="no" part="N">Give virgin lips to cornfield <rhyme label="N">concubines</rhyme>,</l>
+               <l enjamb="no" part="N">Bring dreams of Christ to dusky <rs type="theme" subtype="cane">cane</rs>-lipped <rhyme label="M">throngs</rhyme>.</l>
+            </lg>
+            <byline>-Jean Toomer</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
