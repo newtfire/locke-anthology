@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lady Lady</title>
+            <author>Anne Spencer</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Pg. 148, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <lg>
+            <l enjamb="no">Lady, Lady, I saw your face,</l>
+            <l enjamb="no">Dark as night withholding a star.</l>
+            <l enjamb="yes">The chisel fell, or it might have been</l>
+            <l enjamb="no">You had borne so long the yoke of men.</l>
+         </lg>
+
+         <lg>
+            <l enjamb="no">Lady, Lady, I saw your hands,</l>
+            <l enjamb="no">Twisted, awry- like crumpled roots,</l>
+            <l enjamb="no">Bleached poor white in a sudsy tub,</l>
+            <l enjamb="no">Wrinkled and drawn from your rub-a-dub.</l>
+         </lg>
+
+         <lg>
+            <l enjamb="no">Lady, Lady, I saw your heart,</l>
+            <l enjamb="yes">And altared there in its darksome place</l>
+            <l enjamb="no">Were the tongues of flame the ancients knew,</l>
+            <l enjamb="no">Where the good God sits to spangle through.</l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

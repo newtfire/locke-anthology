@@ -24,20 +24,20 @@
          <div>
             <head>Escape</head>
             <l enjamb="no">Shadows, shadows,</l>
-            <l enjamb="no">Hug me round</l>
-            <l enjamb="no">So that I shall not be found</l>
+            <l enjamb="yes">Hug me round</l>
+            <l enjamb="yes">So that I shall not be found</l>
             <l enjamb="no">By sorrow:</l>
-            <l enjamb="no">She pursues me</l>
+            <l enjamb="yes">She pursues me</l>
             <l enjamb="no">Everywhere,</l>
-            <l enjamb="no">I can’t lose her</l>
+            <l enjamb="yes">I can’t lose her</l>
             <l enjamb="no">Anywhere.</l>
-            <l enjamb="no">Fold me in your black</l>
+            <l enjamb="yes">Fold me in your black</l>
             <l enjamb="no">Abyss,</l>
-            <l enjamb="no">She will never look</l>
+            <l enjamb="yes">She will never look</l>
             <l enjamb="no">In this,—</l>
             <l enjamb="no">Shadows, shadows,</l>
-            <l enjamb="no">Hug me round</l>
-            <l enjamb="no">In your solitude</l>
+            <l enjamb="yes">Hug me round</l>
+            <l enjamb="yes">In your solitude</l>
             <l enjamb="no">Profound.</l>
             <byline>Georgia Douglas Johnson</byline>
          </div>

@@ -28,23 +28,23 @@
             </lg>
             <lg>
                <l enjamb="no">I am the darker brother.</l>
-               <l enjamb="no">They send me to eat in the kitchen</l>
+               <l enjamb="yes">They send me to eat in the kitchen</l>
                <l enjamb="no">When company comes.</l>
                <l enjamb="no">But I laugh,</l>
                <l enjamb="no">And eat well,</l>
                <l enjamb="no">And grow strong.</l>
             </lg>
             <lg>
-               <l enjamb="no">To-morrow</l>
-               <l enjamb="no">I’ll sit at the table</l>
-               <l enjamb="no">When company comes</l>
-               <l enjamb="no">Nobody ’ll dare</l>
+               <l enjamb="yes">To-morrow</l>
+               <l enjamb="yes">I’ll sit at the table</l>
+               <l enjamb="yes">When company comes</l>
+               <l enjamb="yes">Nobody ’ll dare</l>
                <l enjamb="no">Say to me,</l>
-               <l enjamb="no">“Eat in the kitchen”</l>
+               <l enjamb="yes">“Eat in the kitchen”</l>
                <l enjamb="no">Then.</l>
             </lg>
             <lg>
-               <l enjamb="no">Besides, they’ll see how beautiful I am</l>
+               <l enjamb="yes">Besides, they’ll see how beautiful I am</l>
                <l enjamb="no">And be ashamed,—</l>
             </lg>
             <lg>
