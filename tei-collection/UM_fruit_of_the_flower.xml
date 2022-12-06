@@ -21,7 +21,7 @@
          <div>
             <head>"FRUIT OF THE FLOWER"</head>
             <lg>
-               <l enjamb="no">My father is a quiet man</l>
+               <l enjamb="yes">My father is a quiet man</l>
                <l enjamb="no">With sober, steady ways;</l>
                <l enjamb="no">For simile, a folded fan;</l>
                <l enjamb="no">His nights are like his days.</l>
@@ -29,37 +29,37 @@
             <lg>
                <l enjamb="no">My mother’s life is puritan,</l>
                <l enjamb="no">No hint of cavalier,</l>
-               <l enjamb="no">A pool so calm you’re sure it can</l>
+               <l enjamb="yes">A pool so calm you’re sure it can</l>
                <l enjamb="no">Have little depth to fear.</l>
             </lg>
             <lg>
-               <l enjamb="no">And yet my father’s eyes can boast</l>
+               <l enjamb="yes">And yet my father’s eyes can boast</l>
                <l enjamb="no">How full his life has been;</l>
-               <l enjamb="no">There haunts them yet the languid ghost</l>
+               <l enjamb="yes">There haunts them yet the languid ghost</l>
                <l enjamb="no">Of some still sacred sin.</l>
             </lg>
             <lg>
                <l enjamb="no">And though my mother chants of God,</l>
                <l enjamb="no">And of the mystic river,</l>
-               <l enjamb="no">I’ve seen a bit of checkered sod</l>
+               <l enjamb="yes">I’ve seen a bit of checkered sod</l>
                <l enjamb="no">Set all her flesh aquiver.</l>
             </lg>
             <lg>
-               <l enjamb="no">Why should he deem it pure mischance</l>
-               <l enjamb="no">A son of his is fain</l>
-               <l enjamb="no">To do a naked tribal dance</l>
+               <l enjamb="yes">Why should he deem it pure mischance</l>
+               <l enjamb="yes">A son of his is fain</l>
+               <l enjamb="yes">To do a naked tribal dance</l>
                <l enjamb="no">Each time he hears the rain?</l>
             </lg>
             <lg>
-               <l enjamb="no">Why should she think it devil’s art</l>
-               <l enjamb="no">That all my songs should be</l>
+               <l enjamb="yes">Why should she think it devil’s art</l>
+               <l enjamb="yes">That all my songs should be</l>
                <l enjamb="no">Of love and lovers, broken heart,</l>
                <l enjamb="no">And wild sweet agony?</l>
             </lg>
             <lg>
                <l enjamb="no">Who plants a seed begets a bud,</l>
                <l enjamb="no">Extract of that same root;</l>
-               <l enjamb="no">Why marvel at the hectic blood</l>
+               <l enjamb="yes">Why marvel at the hectic blood</l>
                <l enjamb="no">That flushes this wild fruit?</l>
             </lg>
             <byline>Countée Cullen</byline>

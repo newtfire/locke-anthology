@@ -25,30 +25,30 @@
             <head>
                <rs type="theme" subtype="minstrelsy">Minstrel</rs> Man</head>
             <lg>
-               <l enjamb="no">Because <rs type="POV" subtype="firstPerson">my</rs> mouth</l>
-               <l enjamb="no">Is wide with laughter</l>
-               <l enjamb="no">And my throat Is</l>
+               <l enjamb="yes">Because <rs type="POV" subtype="firstPerson">my</rs> mouth</l>
+               <l enjamb="yes">Is wide with laughter</l>
+               <l enjamb="yes">And my throat Is</l>
                <l enjamb="no">deep with <rhyme label="D">song</rhyme>,<caesura/>
                </l>
-               <l enjamb="no">
+               <l enjamb="yes">
                   <rs type="POV" subtype="secondPerson">You</rs> do not think</l>
-               <l enjamb="no">I suffer after</l>
-               <l enjamb="no">I have held my pain</l>
+               <l enjamb="yes">I suffer after</l>
+               <l enjamb="yes">I have held my pain</l>
                <l enjamb="no">So <rhyme label="D">long</rhyme>.<caesura/>
                </l>
             </lg>
             <lg>
-               <l enjamb="no">Because my mouth</l>
+               <l enjamb="yes">Because my mouth</l>
                <l enjamb="no">Is wide with laughter,<caesura/>
                </l>
-               <l enjamb="no">You do not hear</l>
+               <l enjamb="yes">You do not hear</l>
                <l enjamb="no">My inner <rhyme label="K">cry</rhyme>,<caesura/>
                </l>
-               <l enjamb="no">Because my feet</l>
+               <l enjamb="yes">Because my feet</l>
                <l enjamb="no">
                   <rs type="litDevice" subtype="metaphor">Are gay</rs> with dancing,<caesura/>
                </l>
-               <l enjamb="no">You do not know</l>
+               <l enjamb="yes">You do not know</l>
                <l enjamb="no">I <rhyme label="K">
                      <rs type="litDevice" subtype="metaphor">die</rs>
                   </rhyme>.<caesura/>

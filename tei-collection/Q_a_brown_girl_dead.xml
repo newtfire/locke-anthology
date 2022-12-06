@@ -35,11 +35,11 @@
                   <persName>Lord Death</persName> has found her <rhyme label="B">sweet</rhyme>.</l>
             </lg>
             <lg>
-               <l enjamb="no">
+               <l enjamb="yes">
                   <rs type="theme" subtype="female">Her mother</rs> pawned her wedding <rhyme label="C">ring</rhyme>
                </l>
                <l enjamb="no">To lay her out in <rhyme label="D">white</rhyme>;</l>
-               <l enjamb="no">
+               <l enjamb="yes">
                   <rs type="theme" subtype="love">She’d be so proud</rs> she’d dance and <rhyme label="C">sing</rhyme>
                </l>
                <l enjamb="no">To see herself <rhyme label="D">to-night</rhyme>.</l>

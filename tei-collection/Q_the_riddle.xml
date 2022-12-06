@@ -25,7 +25,7 @@
       <body>
          <head>"THE RIDDLE"</head>
          <lg>
-            <l enjamb="no">White men’s children spread over the earth—</l>
+            <l enjamb="no"><rs type="theme" subtype="white">White men’s children</rs> spread over the earth—</l>
             <l enjamb="no">A rainbow suspending the drawn swords of birth,</l>
             <l enjamb="no">Uniting and blending the races in one</l>
             <l enjamb="no">The world man—cosmopolite—everyman’s son!</l>
@@ -34,7 +34,7 @@
             <l enjamb="no">He channels the stream of the red blood and blue,</l>
             <l enjamb="no">Behold him! A Triton—the peer of the two;</l>
             <l enjamb="no">Unriddle this riddle of “outside in”</l>
-            <l enjamb="no">White men’s children in black men’s skin.</l>
+            <l enjamb="no"><rs type="theme" subtype="white">White men’s children</rs> <rs type="theme" subtype="black">in black men’s skin</rs>.</l>
          </lg>
          <byline>-Georgia Douglas Johnson</byline>
       </body>
