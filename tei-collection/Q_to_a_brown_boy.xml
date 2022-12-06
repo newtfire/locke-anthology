@@ -24,7 +24,6 @@
       <body>
          <div>
             <head>“TO A BROWN BOY”</head>
-            <lg>
                <lg type="quatrain">
                   <l enjamb="yes">That <rs type="theme" subtype="race">brown</rs>
                      <rs type="theme" subtype="child">girl’s</rs> swagger gives a <rhyme label="A">twitch</rhyme>
@@ -35,8 +34,6 @@
                   </l>
                   <l enjamb="no">When <rs type="theme" subtype="love">loveliness</rs> is <rhyme label="B">seen</rhyme>.</l>
                </lg>
-            </lg>
-            <lg>
                <lg type="quatrain">
                   <l enjamb="yes">For there is ample room for <rhyme label="C">bliss</rhyme>
                   </l>
@@ -52,8 +49,6 @@
                         <rs type="theme" subtype="religion">hymns</rs>
                      </rhyme>.</l>
                </lg>
-            </lg>
-            <lg>
                <lg type="quatrain">
                   <l enjamb="yes">And when your <rs type="theme" subtype="body">body’s</rs> death gives <rhyme label="E">birth</rhyme>
                   </l>
@@ -65,7 +60,6 @@
                         <rs type="theme" subtype="race">brown</rs>
                      </rhyme>.</l>
                </lg>
-            </lg>
             <byline>Countée Cullen</byline>
          </div>
       </body>

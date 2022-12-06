@@ -36,7 +36,7 @@ button:hover {
     background-color: #C2B280;
 }
 
-span.cursive {
+div.cursive {
     font-family: "Brush Script MT"; 
 }
 
@@ -47,3 +47,4 @@ span.color {
 span.italics {
     font-style: italic;
 }
+iframe {width:50%; height:800px;}
