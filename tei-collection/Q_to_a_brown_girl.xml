@@ -26,10 +26,12 @@
             <head>“TO A BROWN GIRL”</head>
             <lg>
                <lg type="quatrain">
-                  <l enjamb="no">What if <rs type="theme" subtype="male">his</rs> glance is bold and <rhyme label="A">free.</rhyme>
+                  <l enjamb="no">What if <rs type="theme" subtype="male">his</rs> glance is bold and
+                        <rhyme label="A">free.</rhyme>
                   </l>
                   <l enjamb="no">
-                     <rs type="theme" subtype="male">His</rs> mouth the lash of <rhyme label="B">whips?</rhyme>
+                     <rs type="theme" subtype="male">His</rs> mouth the lash of <rhyme label="B"
+                        >whips?</rhyme>
                   </l>
                   <l enjamb="no">So should the eyes of <rs type="theme" subtype="love">lovers</rs>
                      <rhyme label="A">be,</rhyme>
@@ -41,13 +43,15 @@
             </lg>
             <lg>
                <lg type="quatrain">
-                  <l enjamb="no">What if no <rs type="theme" subtype="religion"> puritanic</rs>
+                  <l enjamb="yes">What if no <rs type="theme" subtype="religion"> puritanic</rs>
                      <rhyme label="C">strain</rhyme>
                   </l>
-                  <l enjamb="no">Confines <rs type="theme" subtype="male">him</rs> to the <rhyme label="D">nice?</rhyme>
+                  <l enjamb="no">Confines <rs type="theme" subtype="male">him</rs> to the <rhyme
+                        label="D">nice?</rhyme>
                   </l>
-                  <l enjamb="no">
-                     <rs type="theme" subtype="male">He</rs> will not pass this way <rhyme label="C">again</rhyme>
+                  <l enjamb="yes">
+                     <rs type="theme" subtype="male">He</rs> will not pass this way <rhyme label="C"
+                        >again</rhyme>
                   </l>
                   <l enjamb="no">Nor hunger for you <rhyme label="D">twice.</rhyme>
                   </l>
@@ -55,13 +59,14 @@
             </lg>
             <lg>
                <lg type="quatrain">
-                  <l enjamb="no">Since in the end consort <rhyme label="E">together</rhyme>
+                  <l enjamb="yes">Since in the end consort <rhyme label="E">together</rhyme>
                   </l>
                   <l enjamb="no">
                      <name>Magdalen</name> and <name>
                         <rhyme label="F">Mary</rhyme>
                      </name>,</l>
-                  <l enjamb="no">Youth is the time for <rs type="litDevice" subtype="personification">careless <rhyme label="E">weather;</rhyme>
+                  <l enjamb="yes">Youth is the time for <rs type="litDevice"
+                        subtype="personification">careless <rhyme label="E">weather;</rhyme>
                      </rs>
                   </l>
                   <l enjamb="no">Later, lass, be <rhyme label="F">wary.</rhyme>

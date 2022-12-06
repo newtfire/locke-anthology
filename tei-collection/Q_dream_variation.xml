@@ -41,7 +41,7 @@
                <l enjamb="no">Dark <rs type="litDevice" subtype="simile">like</rs>
                   <rhyme label="E">me</rhyme>.</l>
                <l enjamb="no">
-                  <rs type="theme:blackJoyAndYearningForFreedom">That is my <rhyme label="F">dream.</rhyme>
+                  <rs type="theme" subtype="black">That is my <rhyme label="F">dream.</rhyme>
                   </rs>
                </l>
                <l enjamb="yes">To <rs type="actionWords">fling</rs> my arms <rhyme label="A">wide</rhyme>
@@ -55,7 +55,7 @@
                </l>
                <l enjamb="no">Rest at pale <rhyme label="D">evening,</rhyme>
                </l>
-               <l enjamb="no">A tall, slim <rs type="E">tree,</rs>
+               <l enjamb="no">A tall, slim <rhyme label="E">tree,</rhyme>
                </l>
                <l enjamb="yes">Night coming <rhyme label="E">tenderly</rhyme>
                </l>
