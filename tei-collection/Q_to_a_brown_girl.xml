@@ -24,7 +24,6 @@
       <body>
          <div>
             <head>“TO A BROWN GIRL”</head>
-            <lg>
                <lg type="quatrain">
                   <l enjamb="no">What if <rs type="theme" subtype="male">his</rs> glance is bold and
                         <rhyme label="A">free.</rhyme>
@@ -40,8 +39,7 @@
                      <rhyme label="B">lips.</rhyme>
                   </l>
                </lg>
-            </lg>
-            <lg>
+ 
                <lg type="quatrain">
                   <l enjamb="yes">What if no <rs type="theme" subtype="religion"> puritanic</rs>
                      <rhyme label="C">strain</rhyme>
@@ -56,8 +54,6 @@
                   <l enjamb="no">Nor hunger for you <rhyme label="D">twice.</rhyme>
                   </l>
                </lg>
-            </lg>
-            <lg>
                <lg type="quatrain">
                   <l enjamb="yes">Since in the end consort <rhyme label="E">together</rhyme>
                   </l>
@@ -72,7 +68,6 @@
                   <l enjamb="no">Later, lass, be <rhyme label="F">wary.</rhyme>
                   </l>
                </lg>
-            </lg>
             <byline>-Countée Cullen</byline>
          </div>
       </body>

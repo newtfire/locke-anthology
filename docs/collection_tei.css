@@ -9,7 +9,7 @@ h2 {
     border-bottom: double;
 }
 
-
+div.wrapper {display:flex;}
 nav.button {
     display: block;
     width: 60px;
@@ -37,7 +37,7 @@ button:hover {
     background-color: #C2B280;
 }
 
-span.cursive {
+div.cursive {
     font-family: "Brush Script MT"; 
 }
 
@@ -48,3 +48,4 @@ span.color {
 span.italics {
     font-style: italic;
 }
+iframe {width:50%; height:800px;}
