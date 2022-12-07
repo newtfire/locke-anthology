@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei"
+    meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>The Negro Spirituals</title>
+                <respStmt>
+                    <resp>Composed by:</resp>
+                    <persName role="creator" codedval="118611666" auth="GND"
+                        auth.uri="http://d-nb.info/gnd/">Robert Schumann</persName>
+                    <resp>Machine-readable transcription by:</resp>
+                    <persName role="encoder">John Doe</persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <unpub>Incomplete!</unpub>
+            </pubStmt>
+        </fileDesc>
+        <workList>
+            <work>
+                <title>Canon in D</title>
+                <composer>
+                    <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND"
+                        >Johann Pachelbel</persName>
+                </composer>
+                <key pname="f" mode="major">F major</key>
+                <meter count="4" unit="4"/>
+                <creation>Year of composition<date>1680</date> </creation>
+            </work>
+        </workList>
+    </meiHead>
+    <music>
+    <body>
+        <mdiv>
+            <score>
+                <scoreDef meter.count="4" meter.unit="4" key.mode="major">
+                    <staffGrp bar.thru="true" symbol="brace">
+                        <staffDef n="1" clef.line="2" clef.shape="G" key.sig="1f" key.mode="major" lines="5"/>
+                    </staffGrp>
+                </scoreDef>
+                <section>
+                    <!--Measure 1-->
+                    <measure n="1">
+                        <staff n="1">
+                            <layer n="1">
+                                
+                                    <note pname="c" oct="4" dur="4" dots="1" stem.dir="up"/>
+                                 <beam>
+                                    <note pname="d" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="c" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                        
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="a" oct="4" dur="4" tie="i" stem.dir="up"/>
+                                <beam>
+                                    <note pname="a" oct="4" dur="16" tie="t" stem.dir="up"/>
+                                    <note pname="g" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <beam>
+                                    <note pname="a" oct="4" dur="32" stem.dir="up"/>
+                                    <note pname="g" oct="4" dur="32" stem.dir="up"/>
+                                    <note pname="f" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="f" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="2" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                         
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="d" oct="4" dur="4" dots="1" stem.dir="up"/>
+                                <beam>
+                                    <note pname="d" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="d" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                                <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                                <beam>
+                                    <note pname="f" oct="4" dur="8" tie="i" stem.dir="up"/>
+                                    <note pname="d" oct="4" dur="8" tie="t" stem.dir="up"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                        
+                        
+                    </measure>
+                    
+                    <!--Measure 4-->
+                    <measure n="4">
+                        <staff n="1">
+                            <layer n="1">
+                                <beam>
+                                    <note pname="f" oct="4" dur="8" tie="i" stem.dir="up"/>
+                                    <note pname="d" oct="4" dur="8" tie="t" stem.dir="up"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="f" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                                <beam>
+                                    <note pname="d" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="c" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="f" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="8" tie="i" stem.dir="up"/>
+                                    <note pname="d" oct="4" dur="8" tie="t" stem.dir="up"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                        
+                    </measure>
+                    <!--Measure 5-->
+                    <measure n="5">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" dots="1" stem.dir="up"/>
+                                <beam>
+                                    <note pname="d" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="c" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                                    <note pname="f" oct="4" dur="8" tie="i" stem.dir="up"/>
+                                </beam>
+                                <beam>
+                                    <note pname="a" oct="4" dur="8" tie="m" stem.dir="up"/>
+                                    <note pname="c" oct="5" dur="8" tie="t" stem.dir="up"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                        
+                    </measure>
+                    <!--Measure 6-->
+                    <measure n="6">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="5" dur="2" tie="i" stem.dir="up"/>
+                                <note pname="a" oct="4" dur="4" tie ="t" dots="1" stem.dir="up"/>
+                                <beam>
+                                    <note pname="a" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="a" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                        
+                        
+                    </measure>
+                    <!--Measure 7-->
+                    <measure n="7">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="5" dur="8" stem.dir="up"/>
+                                <note pname="c" oct="5" dur="8" stem.dir="up"/>
+                                <note pname="c" oct="5" dur="8" stem.dir="up"/>
+                                <note pname="c" oct="5" dur="8" stem.dir="up"/>
+                                <beam>
+                                    <note pname="c" oct="5" dur="32" tie="i" stem.dir="up"/>
+                                    <note pname="a" oct="4" dur="32" tie="m" stem.dir="up"/>
+                                    <note pname="g" oct="4" dur="32" tie="m" stem.dir="up"/>
+                                    <note pname="f" oct="4" dur="32" tie="t" stem.dir="up"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                                <beam>
+                                    <note pname="a" oct="4" dur="16" stem.dir="up"/>
+                                    <note pname="f" oct="4" dur="16" stem.dir="up"/>
+                                </beam>
+                                <note pname="g" oct="4" dur="8" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                        
+                        
+                    </measure>
+                    <!--Measure 8-->
+                    <measure n="8">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="1" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                        
+                        
+                    </measure>
+                    
+                </section>
+            </score>
+        </mdiv>
+    </body>
+    </music>
+</mei>

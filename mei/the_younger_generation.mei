@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mei meiversion="3.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mei meiversion="4.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -10,21 +10,20 @@
                     <persName role="encoder">Zack Dominick</persName>
                 </respStmt>
             </titleStmt>
-            <!-- <pubStmt> <unpub>Incomplete!</unpub> </pubStmt> -->
+             <pubStmt> <unpub>Incomplete!</unpub> </pubStmt> 
         </fileDesc>
+        
         <workList>
             <work>
-                <!-- <title>Canon in D</title> <composer> <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND" >Johann Pachelbel</persName> </composer> -->
+                <title>Canon in D</title> <composer> <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND" >Johann Pachelbel</persName> </composer> 
                 <key pname="d" mode="major">D major</key>
                 <meter count="4" unit="4"/>
                 <!-- <creation>Year of composition<date>1680</date> </creation> -->
             </work>
         </workList>
     </meiHead>
-    <facsimile>
-        <graphic url="https://archive.org/details/newnegrointerpre00unse/page/n9/mode/2up"/>
-    </facsimile>
-    <music/>
+    
+    <music>
     <body>
         <mdiv>
             <score>
@@ -102,4 +101,5 @@
             </score>
         </mdiv>
     </body>
+    </music>
 </mei>

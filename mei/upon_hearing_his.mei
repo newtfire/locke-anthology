@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei"
-    meiversion="3.0.0">
+    meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
                 <title></title>
                 <respStmt>
                     <resp>Composed by:</resp>
-                    <persName role="creator" codedval="118611666" authority="GND"
-                        authURI="http://d-nb.info/gnd/">Robert Schumann</persName>
+                    <persName role="creator" codedval="118611666" auth="GND"
+                        auth.uri="http://d-nb.info/gnd/">Robert Schumann</persName>
                     <resp>Machine-readable transcription by:</resp>
                     <persName role="encoder">John Doe</persName>
                 </respStmt>
@@ -30,7 +30,7 @@
             </work>
         </workList>
     </meiHead>
-    <music/>
+    <music>
     <body>
         <mdiv>
             <score>
@@ -45,9 +45,9 @@
                         <staff n="1">
                             <layer n="1">
                                 <beam>
-                                    <note pname="c" oct="5" dur="4" stem.dir="down"/>
-                                    <note pname="e" oct="5" dur="4" dots="1" stem.dir="down"/>
-                                    <note pname="c" oct="5" dur="4" stem.dir="down"/>
+                                    <note pname="c" oct="5" dur="8" stem.dir="down"/>
+                                    <note pname="e" oct="5" dur="8" dots="1" stem.dir="down"/>
+                                    <note pname="c" oct="5" dur="16" stem.dir="down"/>
                                 </beam> 
                             </layer>
                         </staff>
@@ -66,8 +66,8 @@
                             <layer n="1">
                                 <note pname="e" oct="5" dur="4" tie="t" stem.dir="down"/>
                                 <beam>
-                                    <note pname="c" oct="5" dur="4" stem.dir="down"/>
-                                    <note pname="d" oct="5" dur="4" stem.dir="down"/>
+                                    <note pname="c" oct="5" dur="8" stem.dir="down"/>
+                                    <note pname="d" oct="5" dur="8" stem.dir="down"/>
                                 </beam>
                             </layer>
                         </staff>
@@ -77,8 +77,8 @@
                         <staff n="1">
                             <layer n="1">
                                 <beam>
-                                    <note pname="e" oct="5" dur="4" stem.dir="down"/>
-                                    <note pname="d" oct="5" dur="4" stem.dir="down"/>
+                                    <note pname="e" oct="5" dur="8" stem.dir="down"/>
+                                    <note pname="d" oct="5" dur="8" stem.dir="down"/>
                                 </beam>
                                 <note pname="c" oct="5" dur="4" stem.dir="down"/>
                             </layer>
@@ -88,7 +88,7 @@
                     <measure n="5">
                         <staff n="1">
                             <layer n="1">
-                                <note pname="b" oct="4" dur="2" tie="1" stem.dir="down"/>
+                                <note pname="b" oct="4" dur="2" tie="i" stem.dir="down"/>
                             </layer>
                         </staff>
                     </measure>
@@ -104,4 +104,5 @@
             </score>
         </mdiv>
     </body>
+    </music>
 </mei>
