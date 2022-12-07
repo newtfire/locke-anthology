@@ -10,6 +10,16 @@ h2 {
     border-bottom: double;
 }
 
+div.wrapper {
+    display: flex;
+}
+
+div.display {
+    margin-right: 100px;
+    margin-left: 100px;
+    display: block;
+}
+
 nav.button {
     display: inline-block;
     width: 60px;
@@ -17,6 +27,17 @@ nav.button {
     border-right: solid;
     padding-right: 35px; 
     text-align: left;
+}
+
+audio{
+    width: 75%;
+}
+
+img {
+    border: double;
+    max-width: 800px;
+    width: 75%;
+    height: auto;
 }
 
 button.Home {padding: 10px 25px;border: none; }
