@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lady Lady</title>
+            <author>Anne Spencer</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Pg. 148, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/148/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <lg part="N" org="uniform" sample="complete">
+            <l enjamb="no" part="N">Lady, Lady, I saw your face,</l>
+            <l enjamb="no" part="N">Dark as night withholding a star.</l>
+            <l enjamb="yes" part="N">The chisel fell, or it might have been</l>
+            <l enjamb="no" part="N">You had borne so long the yoke of men.</l>
+         </lg>
+         <lg part="N" org="uniform" sample="complete">
+            <l enjamb="no" part="N">Lady, Lady, I saw your hands,</l>
+            <l enjamb="no" part="N">Twisted, awry- like crumpled roots,</l>
+            <l enjamb="no" part="N">Bleached poor white in a sudsy tub,</l>
+            <l enjamb="no" part="N">Wrinkled and drawn from your rub-a-dub.</l>
+         </lg>
+         <lg part="N" org="uniform" sample="complete">
+            <l enjamb="no" part="N">Lady, Lady, I saw your heart,</l>
+            <l enjamb="yes" part="N">And altared there in its darksome place</l>
+            <l enjamb="no" part="N">Were the tongues of flame the ancients knew,</l>
+            <l enjamb="no" part="N">Where the good God sits to spangle through.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ordeal</title>
+            <author>Georgia Douglas Johnson</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Pg. 146, Half page</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/152/mode/2up"/>
+   </facsimile>
+   <text>
+      <body>
+         <div part="N" org="uniform" sample="complete">
+            <head>THE ORDEAL</head>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">Ho! my brother,</l>
+               <l enjamb="yes" part="N">Pass me not by so scornfully</l>
+               <l enjamb="no" part="N">I’m doing this living of being black,</l>
+               <l enjamb="no" part="N">Perhaps I bear your own life-pack,</l>
+               <l enjamb="yes" part="N">And heavy, heavy is the load</l>
+               <l enjamb="no" part="N">That bends my body to the road.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">But I have kept a smile for fate,</l>
+               <l enjamb="no" part="N">I neither cry, nor cringe, nor hate,</l>
+               <l enjamb="yes" part="N">Intrepidly, I strive to bear</l>
+               <l enjamb="yes" part="N">This handicap. The planets wear</l>
+               <l enjamb="yes" part="N">The Maker’s imprint, and with mine</l>
+               <l enjamb="no" part="N">I swing into their rhythmic line;</l>
+               <l enjamb="no" part="N">I ask—only for destiny,</l>
+               <l enjamb="no" part="N">Mine, not thine.</l>
+            </lg>
+            <byline>-Georgia Douglas Johnson</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

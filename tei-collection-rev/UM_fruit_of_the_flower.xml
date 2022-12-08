@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/lockeAnthology.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fruit of the Flower</title>
+            <author>Countée Cullen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Pg. 132, one page.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div part="N" org="uniform" sample="complete">
+            <head>"FRUIT OF THE FLOWER"</head>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="yes" part="N">My father is a quiet man</l>
+               <l enjamb="no" part="N">With sober, steady ways;</l>
+               <l enjamb="no" part="N">For simile, a folded fan;</l>
+               <l enjamb="no" part="N">His nights are like his days.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">My mother’s life is puritan,</l>
+               <l enjamb="no" part="N">No hint of cavalier,</l>
+               <l enjamb="yes" part="N">A pool so calm you’re sure it can</l>
+               <l enjamb="no" part="N">Have little depth to fear.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="yes" part="N">And yet my father’s eyes can boast</l>
+               <l enjamb="no" part="N">How full his life has been;</l>
+               <l enjamb="yes" part="N">There haunts them yet the languid ghost</l>
+               <l enjamb="no" part="N">Of some still sacred sin.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">And though my mother chants of God,</l>
+               <l enjamb="no" part="N">And of the mystic river,</l>
+               <l enjamb="yes" part="N">I’ve seen a bit of checkered sod</l>
+               <l enjamb="no" part="N">Set all her flesh aquiver.</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="yes" part="N">Why should he deem it pure mischance</l>
+               <l enjamb="yes" part="N">A son of his is fain</l>
+               <l enjamb="yes" part="N">To do a naked tribal dance</l>
+               <l enjamb="no" part="N">Each time he hears the rain?</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="yes" part="N">Why should she think it devil’s art</l>
+               <l enjamb="yes" part="N">That all my songs should be</l>
+               <l enjamb="no" part="N">Of love and lovers, broken heart,</l>
+               <l enjamb="no" part="N">And wild sweet agony?</l>
+            </lg>
+            <lg part="N" org="uniform" sample="complete">
+               <l enjamb="no" part="N">Who plants a seed begets a bud,</l>
+               <l enjamb="no" part="N">Extract of that same root;</l>
+               <l enjamb="yes" part="N">Why marvel at the hectic blood</l>
+               <l enjamb="no" part="N">That flushes this wild fruit?</l>
+            </lg>
+            <byline>Countée Cullen</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
