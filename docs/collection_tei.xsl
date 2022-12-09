@@ -17,7 +17,6 @@
             <head>
                 <title>Poems</title>
                 <link rel="stylesheet" type="text/css" href="collection_tei.css"/> 
-
                 
                 <!-- ebb: Consider where the CSS file will be locatd in relation to output HTML when it's being
                 developed in the docs/ directory for the project website. Does this line need to change? -->
@@ -118,7 +117,7 @@
         -->
  
     <xsl:template match="rs">
-        <span class="color">
+        <span class="{@type}" title="{@subtype='#hover'}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
@@ -128,6 +127,23 @@
     so signalling rhyme patterns should maybe be more subtle, something handled with background-color? 
     What about showing matching rhyme patterns based on the different values of @label? 
     -->
+ 
+    <xsl:template match="rs[@type]">
+        <span class="type">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+ 
+ 
+    <xsl:template match="rs[@subtype]">
+        <div class="tooltip" id="hover">
+            <span class="tooltiptext">
+            <xsl:apply-templates/>
+            </span>
+        </div>
+    </xsl:template>
+    
+    
     <xsl:template match="rhyme[@type]">
         <span class="italics">
             <xsl:apply-templates/>
