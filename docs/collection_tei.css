@@ -80,10 +80,148 @@ div.tooltip:hover span.tooltiptext:after {
   opacity: 1;
 }
 
-span.type {
-    color: blue;
+
+
+
+span[title="alliteration"] {
+    color: #ff0000;
 }
 
+span[title="assonance"] {
+    color: #ff00f2;
+}
+
+span[title="consonance"]{
+    color: #fff200;
+}
+
+span[title="metaphor"] {
+    color: #91ff00;
+}
+
+span[title="simile"] {
+    color: #00ffa6;
+}
+
+span[title="repetition"] {
+    color: #0004ff;
+}
+
+span[title="personification"] {
+    color: #4c00ff;
+}
+
+
+
+
+span[title="cane"] {
+    background-color: #bd5b5b;
+}
+
+span[title="freedom"] {
+    background-color: #bd7a5b;
+}
+
+span[title="religion"] {
+    background-color: #bd8e5b;
+}
+
+span[title="race"] {
+    background-color: #babd5b;
+}
+
+span[title="color"] {
+    background-color: #a0bd5b;
+}
+
+span[title="black"] {
+    background-color: #7cbd5b;
+}
+
+span[title="white"] {
+    background-color: #5bbd7c;
+}
+
+span[title="body"] {
+    background-color: #5bbdab;
+}
+
+span[title="minstrelsy"] {
+    background-color: #5b9ebd;
+}
+
+span[title="food"] {
+    background-color: #635bbd;
+}
+
+span[title="love"] {
+    background-color: #8c5bbd;
+}
+
+span[title="child"] {
+    background-color: #bb5bbd;
+}
+
+span[title="female"] {
+    background-color: #bd5ba3;
+}
+
+span[title="male"] {
+    background-color: #bd5b85;
+}
+
+
+
+
+span[title="A"] {
+    border-style: groove;
+    border-color: #ff0000;
+}
+
+span[title="B"] {
+    border-style: groove;
+    border-color: #ff6f00;
+}
+
+span[title="C"] {
+    border-style: groove;
+    border-color: #ffc400;
+}
+
+span[title="D"] {
+    border-style: groove;
+    border-color: #ccff00;
+}
+
+span[title="E"] {
+    border-style: groove;
+    border-color: #15ff00;
+}
+
+span[title="F"] {
+    border-style: groove;
+    border-color: #00ffc3;
+}
+
+span[title="G"] {
+    border-style: groove;
+    border-color: #0084ff;
+}
+
+span[title="H"] {
+    border-style: groove;
+    border-color: #0015ff;
+}
+
+span[title="I"] {
+    border-style: groove;
+    border-color: #9900ff;
+}
+
+span[title="J"] {
+    border-style: groove;
+    border-color: #ff008c;
+}
 span.italics {
     font-style: italic;
 }
