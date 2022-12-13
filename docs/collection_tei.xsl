@@ -128,24 +128,17 @@
     What about showing matching rhyme patterns based on the different values of @label? 
     -->
  
-    <xsl:template match="rs[@type]">
-        <span class="type">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
  
  
-    <xsl:template match="rs[@subtype]">
-        <div class="tooltip" id="hover">
-            <span class="tooltiptext">
+    <xsl:template match="rs">       
+            <span class ="{@type}" title="{@subtype}">
             <xsl:apply-templates/>
             </span>
-        </div>
     </xsl:template>
     
     
-    <xsl:template match="rhyme[@type]">
-        <span class="italics">
+    <xsl:template match="rhyme">
+        <span title="{@label}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
