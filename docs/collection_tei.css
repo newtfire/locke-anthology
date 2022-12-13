@@ -115,59 +115,73 @@ span[title="personification"] {
 
 
 span[title="cane"] {
-    background-color: #bd5b5b;
+    background-image: repeating-linear-gradient(-45deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 6px);
+    background-size: 8px 8px;
 }
 
 span[title="freedom"] {
-    background-color: #bd7a5b;
+    background-image: repeating-linear-gradient(-45deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 6px);
+    background-size: 4px 4px;
 }
 
 span[title="religion"] {
-    background-color: #bd8e5b;
+    background-image: repeating-linear-gradient(-26deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 2px, transparent 3px, transparent 7px);
+    background-size: 6px 8px;
 }
 
 span[title="race"] {
-    background-color: #babd5b;
+    background-image: repeating-linear-gradient(0deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-size: 2px;
 }
 
 span[title="color"] {
-    background-color: #a0bd5b;
+    background-image: repeating-linear-gradient(90deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-size: 16px;
 }
 
 span[title="black"] {
-    background-color: #7cbd5b;
+    background-image: repeating-linear-gradient(11deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 0px, transparent 4px);
+    background-size: 8px;
 }
 
 span[title="white"] {
-    background-color: #5bbd7c;
+    background-image: repeating-linear-gradient(-214deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 0px, transparent 13px);
+    background-size: 9px;
 }
 
 span[title="body"] {
-    background-color: #5bbdab;
+    background-image: repeating-linear-gradient(-319deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 3px, transparent 15px);
+    background-size: 4px;
 }
 
 span[title="minstrelsy"] {
-    background-color: #5b9ebd;
+    background-image: repeating-linear-gradient(315deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 3px, transparent -19px, transparent 5px);
+    background-size: 6px;
 }
 
 span[title="food"] {
-    background-color: #635bbd;
+    background-image: repeating-linear-gradient(233deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent -19px, transparent 2px);
+    background-size: 10px;
 }
 
 span[title="love"] {
-    background-color: #8c5bbd;
+    background-image: repeating-linear-gradient(223deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 0px, transparent 2px);
+    background-size: 20px;
 }
 
 span[title="child"] {
-    background-color: #bb5bbd;
+    background-image: repeating-linear-gradient(36deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 0px, transparent 2px);
+    background-size: 12px;
 }
 
 span[title="female"] {
-    background-color: #bd5ba3;
+    background-image: repeating-linear-gradient(45deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-size: 6px;
 }
 
 span[title="male"] {
-    background-color: #bd5b85;
+    background-image: repeating-linear-gradient(175deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 5px);
+    background-size: 4px;
 }
 
 
