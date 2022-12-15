@@ -24,7 +24,7 @@ div.display {
 nav.button {
     display: inline-block;
     width: 60px;
-    height: 650px; 
+    height: auto; 
     border-right: solid;
     padding-right: 35px; 
     text-align: left;

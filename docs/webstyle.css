@@ -10,8 +10,6 @@ h2 {
     border-bottom: double;
 }
 
-
-
 div.wrapper {
     display: flex;
 }
@@ -25,7 +23,7 @@ div.display {
 nav.button {
     display: inline-block;
     width: 60px;
-    height: 650px; 
+    height: auto; 
     border-right: solid;
     padding-right: 35px; 
     text-align: left;
@@ -45,9 +43,9 @@ figure {
 }
 
 img {
+    height: 852px;
+    width: 480px;
     border: double;
-    width: 75%;
-    height: auto;
 }
 
 button.Home {padding: 10px 25px;border: none; }
@@ -61,8 +59,6 @@ button.Music {padding: 10px 25.2px; border:none;}
 button:hover {
     background-color: #C2B280;
 }
-
-
 
 
 
