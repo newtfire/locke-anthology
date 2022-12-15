@@ -1,5 +1,5 @@
 body {
-    background-color: #C2B280;
+    background-color: #708090;
     display: inline-block;
 }
 
@@ -115,72 +115,72 @@ span[title="personification"] {
 
 
 span[title="cane"] {
-    background-image: repeating-linear-gradient(-45deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 6px);
+    background-image: repeating-linear-gradient(-45deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 6px);
     background-size: 8px 8px;
 }
 
 span[title="freedom"] {
-    background-image: repeating-linear-gradient(-45deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 6px);
+    background-image: repeating-linear-gradient(-45deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 6px);
     background-size: 4px 4px;
 }
 
 span[title="religion"] {
-    background-image: repeating-linear-gradient(-26deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 2px, transparent 3px, transparent 7px);
+    background-image: repeating-linear-gradient(-26deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 2px, transparent 3px, transparent 7px);
     background-size: 6px 8px;
 }
 
 span[title="race"] {
-    background-image: repeating-linear-gradient(0deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-image: repeating-linear-gradient(0deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 7px);
     background-size: 2px;
 }
 
 span[title="color"] {
-    background-image: repeating-linear-gradient(90deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-image: repeating-linear-gradient(90deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 7px);
     background-size: 16px;
 }
 
 span[title="black"] {
-    background-image: repeating-linear-gradient(11deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 0px, transparent 4px);
+    background-image: repeating-linear-gradient(11deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 4px);
     background-size: 8px;
 }
 
 span[title="white"] {
-    background-image: repeating-linear-gradient(-214deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 0px, transparent 13px);
+    background-image: repeating-linear-gradient(-214deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 13px);
     background-size: 9px;
 }
 
 span[title="body"] {
-    background-image: repeating-linear-gradient(-319deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 3px, transparent 15px);
+    background-image: repeating-linear-gradient(-319deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 3px, transparent 15px);
     background-size: 4px;
 }
 
 span[title="minstrelsy"] {
-    background-image: repeating-linear-gradient(315deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 3px, transparent -19px, transparent 5px);
+    background-image: repeating-linear-gradient(315deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 3px, transparent -19px, transparent 5px);
     background-size: 6px;
 }
 
 span[title="food"] {
-    background-image: repeating-linear-gradient(233deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent -19px, transparent 2px);
+    background-image: repeating-linear-gradient(233deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent -19px, transparent 2px);
     background-size: 10px;
 }
 
 span[title="love"] {
-    background-image: repeating-linear-gradient(223deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 0px, transparent 2px);
+    background-image: repeating-linear-gradient(223deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 2px);
     background-size: 20px;
 }
 
 span[title="child"] {
-    background-image: repeating-linear-gradient(36deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 0px, transparent 2px);
+    background-image: repeating-linear-gradient(36deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 2px);
     background-size: 12px;
 }
 
 span[title="female"] {
-    background-image: repeating-linear-gradient(45deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-image: repeating-linear-gradient(45deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 7px);
     background-size: 6px;
 }
 
 span[title="male"] {
-    background-image: repeating-linear-gradient(175deg, rgba(0,0,255, 0.25), rgba(0,0,255, 0.25) 1px, transparent 1px, transparent 5px);
+    background-image: repeating-linear-gradient(175deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 5px);
     background-size: 4px;
 }
 

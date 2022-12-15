@@ -2,17 +2,58 @@
 <html>
     <head>
         <title>About</title>
-        <meta charset="UTF-8"/>
+        <meta charset="UTF-8" />
         <link rel="stylesheet" type="text/css" href="authors.css" />
     </head>
     <body>
-        <h2>Authors</h2>
-        
-        <nav class="button">
-            <form action="index.html"><button class="Home">Home</button></form>
-            <form action="poems.html"><button class="Poems">Poems</button></form>
-            <form action="authors.html"><button class="Authors">About</button></form>
-            <form action="music.html"><button class="Music">Music</button></form>
-        </nav>
+        <h2>About</h2>
+        <div class="wrapper">
+            <nav class="button">
+                <form action="index.html">
+                    <button class="Home">Home</button>
+                </form>
+                <form action="poems.html">
+                    <button class="Poems">Poems</button>
+                </form>
+                <form action="authors.html">
+                    <button class="Authors">About</button>
+                </form>
+                <form action="music.html">
+                    <button class="Music">Music</button>
+                </form>
+            </nav>
+            <div class="display">
+                <h4>--About Our Code: TEI--</h4>
+                <p>Throughout our project, our code has gone through several transformations.
+                    Strictly talking about our TEI code, it first started out as these very basic
+                    templates that contained the poems found within the Anthology. These templates
+                    were then sent out to the Harlem Renaissance class at Framingham University.
+                    Their class marked up the poem templates looking for rhyme patterns, literary
+                    devices, and themes. Once they were finished marking up the poems, they were
+                    sent back to us. We realized that some of the poems had a unique way that they
+                    were marked up, so we had to come up with a way to standardize the markup. We
+                    wrote an XSLT script that matched onto the most common mark up and changed them
+                    all to the same thing. The XSLT script got the bulk of the job done, but we
+                    would have to go over each poem to make sure they were all of good quality. At
+                    this point, the TEI would be complete.</p>
+                <figure>
+                    <img src="images/TEI_Template.png" alt="TEI template of the poem, To A Brown Boy" />
+                    <figcaption>Here is the TEI template that we created. This is the poem "To A Brown Boy"</figcaption>
+                </figure>
+                <figure>
+                    <img src="images/TEI_Framingham.png" alt="Marked up TEI of the poem, To A Brown Boy" />
+                    <figcaption>This is what the mark up looked like when we first recieved Framingham's TEI "package." As you can see, they used the rs element to hold
+                    attribute values, like type, to mark up the poems.</figcaption>
+                </figure>
+                <figure>
+                    <img src="images/XSLT_Type_Script.png" alt="XSLT Script" />
+                    <figcaption>Here is a glimpse of the XSLT script that we used to standardize the poem mark up.</figcaption>
+                </figure>
+                <figure>
+                    <img src="images/TEI_Final.png" alt="Final version TEI of the poem, To A Brown Boy" />
+                    <figcaption>After a bit of quality control, this is what the final version of the TEI looks like.</figcaption>
+                </figure>
+            </div>
+        </div>
     </body>
 </html>

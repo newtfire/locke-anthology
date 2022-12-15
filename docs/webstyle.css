@@ -16,6 +16,12 @@ div.wrapper {
     display: flex;
 }
 
+div.display {
+    margin-right: 100px;
+    margin-left: 100px;
+    display: block;
+}
+
 nav.button {
     display: inline-block;
     width: 60px;

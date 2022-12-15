@@ -1,4 +1,3 @@
-
 body {
     color: black;
     background-color: #C2B280;
@@ -10,6 +9,18 @@ h2 {
     border-bottom: double;
 }
 
+
+
+div.wrapper {
+    display: flex;
+}
+
+div.display {
+    margin-right: 100px;
+    margin-left: 100px;
+    display: block;
+}
+
 nav.button {
     display: inline-block;
     width: 60px;
@@ -17,6 +28,25 @@ nav.button {
     border-right: solid;
     padding-right: 35px; 
     text-align: left;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+figure {
+    margin-top: 100px;
+    margin-left: 50px;
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    border: double;
+    width: 75%;
+    height: auto;
 }
 
 button.Home {padding: 10px 25px;border: none; }
