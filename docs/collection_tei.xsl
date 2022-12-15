@@ -109,7 +109,7 @@
     </xsl:template>
 -->
     <xsl:template match="head">
-        <h2><a id="chap">
+        <h2><a id="{head}">
             <xsl:apply-templates/>
         </a></h2>
     </xsl:template>
