@@ -33,43 +33,43 @@
                 </nav>
                 
                 <ol>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
-                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap">A Brown Girl</a></li>
+                    <li><a href="#chap">DREAM VARIATION</a></li>
+                    <li><a href="#chap">ENCHANTMENT</a></li>
+                    <li><a href="#chap">Part I</a></li>
+                    <li><a href="#chap">Night</a></li>
+                    <li><a href="#chap">Part II</a></li>
+                    <li><a href="#chap">Part I</a></li>
+                    <li><a href="#chap">Night</a></li>
+                    <li><a href="#chap">Part II</a></li>
+                    <li><a href="#chap">Georgia Dusk</a></li>
+                    <li><a href="#chap">Minstrel Man</a></li>
+                    <li><a href="#chap">OUR LAND</a></li>
+                    <li><a href="#chap">SHE OF THE DANCING FEET SINGS</a></li>
+                    <li><a href="#chap">Tableau</a></li>
+                    <li><a href="#chap">THE DAY-BREAKERS</a></li>
+                    <li><a href="#chap">THE NEGRO SPEAKS OF RIVERS</a></li>
+                    <li><a href="#chap">TO A BROWN BOY</a></li>
+                    <li><a href="#chap">TO A BROWN GIRL</a></li>
+                    <li><a href="#chap">The Tropics in New York</a></li>
+                    <li><a href="#chap">AN EARTH SONG</a></li>
+                    <li><a href="#chap">BAPTISM</a></li>
+                    <li><a href="#chap">Escape</a></li>
+                    <li><a href="#chap">FRUIT OF THE FLOWER</a></li>
+                    <li><a href="#chap">Harlem Wine</a></li>
+                    <li><a href="#chap">IN MEMORY OF COLONEL CHARLES YOUNG</a></li>
+                    <li><a href="#chap">I TOO</a></li>
+                    <li><a href="#chap">Like a Strong Tree</a></li>
+                    <li><a href="#chap">POEM</a></li>
+                    <li><a href="#chap">RUSSIAN CATHEDRAL</a></li>
+                    <li><a href="#chap">SONG</a></li>
+                    <li><a href="#chap">Song of the Sun</a></li>
+                    <li><a href="#chap">The Black Finger</a></li>
+                    <li><a href="#chap">THE CREATION</a></li>
+                    <li><a href="#chap">THE ORDEAL</a></li>
+                    <li><a href="#chap">TO SAMUEL COLERIDGE TAYLOR, UPON HEARING HIS</a></li>
+                    <li><a href="#chap">WHITE HOUSES</a></li>
+                    <li><a href="#chap">YOUTH</a></li>
                 </ol>
                
                <div class="display"> 
@@ -109,9 +109,9 @@
     </xsl:template>
 -->
     <xsl:template match="head">
-        <h2 id="chap">
+        <h2><a id="chap">
             <xsl:apply-templates/>
-        </h2>
+        </a></h2>
     </xsl:template>
     
     <xsl:template match="lg">
