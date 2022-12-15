@@ -23,7 +23,7 @@
 
             </head>
             <body>
-                <h2>The New Negro Anthology, ed. Alaine Locke, 1925</h2>
+                <h2>The New Negro Anthology, Poems</h2>
               <div class="wrapper"> 
                   <nav class="button">
                     <form action="index.html"><button class="Home">Home</button></form>
@@ -31,7 +31,47 @@
                     <form action="authors.html"><button class="Authors">Authors</button></form>
                     <form action="music.html"><button class="Music">Music</button></form>
                 </nav>
-
+                
+                <ol>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                    <li><a href="#chap"></a></li>
+                </ol>
+               
                <div class="display"> 
                    <xsl:apply-templates select="$Poems/TEI"/>
                </div>
@@ -40,6 +80,7 @@
         </html>
     </xsl:template>
     
+
     <xsl:template match="TEI">
         
         <!-- Want to pull in any teiHeader contents?  -->
@@ -68,7 +109,7 @@
     </xsl:template>
 -->
     <xsl:template match="head">
-        <h2>
+        <h2 id="chap">
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
