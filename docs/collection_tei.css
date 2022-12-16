@@ -11,6 +11,7 @@ h2 {
 }
 
 div.wrapper {display:flex;}
+
 nav.button {
     display: block;
     width: 60px;
@@ -198,4 +199,42 @@ span[title="J"] {
 span.italics {
     font-style: italic;
 }
+
 iframe {width:50%; height:800px;}
+
+/*Legend*/
+.legend_div {
+    border-style: double;
+    border-width: 8px;
+    border-radius: 8px;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    text-align: center;
+    background: #9aa6b1;
+    line-height: 0.9rem;
+}
+
+.legend_title {
+    font-size: 1.5rem;
+}
+
+.legend_text {
+    color: red;
+    font-size: 1.2rem;
+}
+
+.legend_border {
+    border-style: groove;
+    border-color: #ff008c;
+}
+
+.legend_background {
+    background-image: repeating-linear-gradient(223deg, rgba(255,0,0, 0.75), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 2px);
+    background-size: 20px;
+}
+
+.h4_title {
+    font-size: 3.2rem;
+    border-bottom: double;
+    border-width: 8px;
+}
