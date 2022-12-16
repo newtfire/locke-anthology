@@ -51,3 +51,9 @@ button.Music {padding: 10px 25.2px; border:none;}
 button:hover {
     background-color: #C2B280;
 }
+
+.h4_title {
+    font-size: 3.2rem;
+    border-bottom: double;
+    border-width: 8px;
+}

@@ -62,3 +62,19 @@ button:hover {
 
 
 
+
+/*Overhaul*/
+
+.h4_title {
+    font-size: 3.2rem;
+    border-bottom: double;
+    border-width: 8px;
+}
+
+.figcaption {
+    font-size: 2rem;
+}
+
+.caption_p {
+    font-size: 2rem;
+}
